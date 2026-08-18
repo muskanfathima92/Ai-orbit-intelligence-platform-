@@ -1,6 +1,6 @@
 [
   {
-    "id": "d5f6c9a6-93f7-4ddd-a952-55fc33723128",
+    "id": "9dce1e04-c8aa-470b-ab9f-77b6c31675bc",
     "entity_type": "mcp",
     "name": "punkpeye/awesome-mcp-servers",
     "description": "A collection of MCP servers.",
@@ -19,7 +19,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "3cd6fc62-a64f-46aa-a827-9f4487096f7e",
+    "id": "9f7936ae-3a3b-41d1-b18e-ccf9495c9ab5",
     "entity_type": "mcp",
     "name": "headroomlabs-ai/headroom",
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
@@ -38,7 +38,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "6c8b97bc-6886-4333-9159-1004949cbbc7",
+    "id": "03caff0a-01fe-412d-a0b8-b3b7bf8d3b60",
     "entity_type": "mcp",
     "name": "zylon-ai/private-gpt",
     "description": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
@@ -57,7 +57,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "6c4b190d-a87c-44c3-88b9-69d947899b16",
+    "id": "2aaa06dd-3d3d-4145-898b-0e72cceb5d32",
     "entity_type": "mcp",
     "name": "DeusData/codebase-memory-mcp",
     "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
@@ -76,7 +76,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "2960321a-d84d-4fe9-843a-3e75eec75aa9",
+    "id": "d2f6255a-e6b3-442a-b2b7-e37eae3e4070",
     "entity_type": "mcp",
     "name": "microsoft/playwright-mcp",
     "description": "Playwright MCP server",
@@ -95,7 +95,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "619483d9-2a71-47f9-a4e1-ac03dbab3ea2",
+    "id": "62eaf0d3-3125-4b06-81ea-cdb29702d865",
     "entity_type": "mcp",
     "name": "github/github-mcp-server",
     "description": "GitHub's official MCP Server",
@@ -114,7 +114,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "34784eb9-2dbb-4e9a-b649-bacec2001dcc",
+    "id": "37da0e2f-192f-42a4-9a6d-f0e32a91986b",
     "entity_type": "mcp",
     "name": "PrefectHQ/fastmcp",
     "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
@@ -133,7 +133,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "79c017db-41f6-45d8-9aaa-11b4d7c5a1e2",
+    "id": "faedbdbe-52ee-4a45-ae87-d6f565f683f8",
     "entity_type": "mcp",
     "name": "modelcontextprotocol/python-sdk",
     "description": "The official Python SDK for Model Context Protocol servers and clients",
@@ -152,7 +152,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "7a81f08b-9744-47bf-9650-a1c15a730f13",
+    "id": "e0071c5c-5dda-4426-9f59-21365dd942fa",
     "entity_type": "mcp",
     "name": "activepieces/activepieces",
     "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
@@ -171,7 +171,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "737c711d-23ad-4d40-9b66-9ed07540522c",
+    "id": "04edcebe-38f5-44e2-b65c-faa17effefcc",
     "entity_type": "mcp",
     "name": "googleapis/mcp-toolbox",
     "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
@@ -190,7 +190,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "6957322f-db93-485a-b89f-b4631af9acdd",
+    "id": "b4ba2959-e65a-439b-90cb-4a35f0cce3a3",
     "entity_type": "mcp",
     "name": "MODSetter/SurfSense",
     "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9",
@@ -209,7 +209,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "1af8dd05-13db-4516-ba64-dde1aa3a140c",
+    "id": "db64424f-98e3-4dae-91b4-8e09f51a54f3",
     "entity_type": "mcp",
     "name": "GLips/Figma-Context-MCP",
     "description": "MCP server to provide Figma layout information to AI coding agents like Cursor",
@@ -228,7 +228,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "dcf5f6a8-65f4-42a2-becf-c3933899e3fe",
+    "id": "c343b987-316b-4356-9367-5408a7db42d7",
     "entity_type": "mcp",
     "name": "t8y2/dbx",
     "description": "20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
@@ -247,7 +247,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "f3f42c78-56f8-4336-827c-0fcf0f85a085",
+    "id": "2b548fd1-cdb4-468e-b1c3-3c6dca8ad617",
     "entity_type": "mcp",
     "name": "casdoor/casdoor",
     "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
@@ -266,7 +266,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "387e22d1-bff9-489a-8e22-e084c4d7c39c",
+    "id": "c9df483a-6828-4135-9fbe-8ee59643f7b2",
     "entity_type": "mcp",
     "name": "modelcontextprotocol/typescript-sdk",
     "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
@@ -285,7 +285,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "3024aa28-d01e-45b3-aa77-92723b5c1000",
+    "id": "f43fa4de-6791-41e2-95b7-2fd8eae32e4e",
     "entity_type": "mcp",
     "name": "hangwin/mcp-chrome",
     "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
@@ -304,7 +304,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "5a1ae166-5b66-487b-acb7-129c9693c6d9",
+    "id": "8b664a33-eafe-455f-8898-9ae83072b3f4",
     "entity_type": "mcp",
     "name": "BeehiveInnovations/pal-mcp-server",
     "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
@@ -323,7 +323,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "aa55b270-fbc6-4d8d-8fae-c8ccface7c59",
+    "id": "375550f4-f3c6-4f45-8e12-f17fc5d656ff",
     "entity_type": "mcp",
     "name": "0x4m4/hexstrike-ai",
     "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
@@ -342,7 +342,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "c77d6d1a-327c-4eae-abac-fc5372cd4eaf",
+    "id": "d7536924-0a21-4c57-b827-77cbab97040a",
     "entity_type": "mcp",
     "name": "modelcontextprotocol/inspector",
     "description": "Visual testing tool for MCP servers",
@@ -361,7 +361,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "17c2c804-aa9c-4f99-9724-1cbc16c50708",
+    "id": "6fce1263-a689-4ad8-9166-09941956db19",
     "entity_type": "mcp",
     "name": "mcp-use/mcp-use",
     "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
@@ -380,7 +380,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "94ce1ea5-262a-4d7c-bb15-992c1d2bebe5",
+    "id": "93e4f6f9-e200-4d23-bad3-18d1643b7829",
     "entity_type": "mcp",
     "name": "LaurieWired/GhidraMCP",
     "description": "MCP Server for Ghidra",
@@ -399,7 +399,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "5c0228c4-8be9-45fc-b28e-930b43f055cb",
+    "id": "7f2c702a-4f40-4695-a5a6-1d3f85ceb850",
     "entity_type": "mcp",
     "name": "awslabs/mcp",
     "description": "Open source MCP Servers for AWS",
@@ -418,7 +418,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "1ccea638-7db2-4041-8fd9-1c9fb8583f90",
+    "id": "2c56defc-b6c7-4924-b804-cd1c42681df6",
     "entity_type": "mcp",
     "name": "wonderwhy-er/DesktopCommanderMCP",
     "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
@@ -437,7 +437,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "4c0d8a8a-c463-486f-ba5d-44972b9b6433",
+    "id": "53f9e053-692c-429e-a0bd-e8f914cb809b",
     "entity_type": "mcp",
     "name": "xberg-io/xberg",
     "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 15 language bindings — Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript — plus CLI, REST API, and MCP server.",
@@ -456,7 +456,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "bd6c444a-efd9-415e-a6b3-12f310ff2cc0",
+    "id": "196d28f4-1ca2-4c63-b02f-37161b70a744",
     "entity_type": "mcp",
     "name": "idosal/git-mcp",
     "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
@@ -475,7 +475,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "ad7cfd8b-212e-46e6-80a8-77324c2c71d5",
+    "id": "e75c0177-da26-4ac4-bb60-e336de806071",
     "entity_type": "mcp",
     "name": "google-labs-code/stitch-skills",
     "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
@@ -494,7 +494,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "d6075383-0538-4b12-baf2-f64c5200da89",
+    "id": "a1b1700c-c17e-4023-a423-fada36d2d09e",
     "entity_type": "mcp",
     "name": "webiny/webiny-js",
     "description": "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations.",
@@ -513,7 +513,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "4f49f837-9ca4-42a8-8e94-7ca41d9a60b1",
+    "id": "ee028694-82d4-4828-a9da-2cb5769cb459",
     "entity_type": "mcp",
     "name": "yzfly/Awesome-MCP-ZH",
     "description": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
@@ -532,7 +532,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "83c095ae-fd65-4df5-be81-d2d5f80c9075",
+    "id": "60b75a45-c4c6-4c80-b438-1f5872ad8224",
     "entity_type": "mcp",
     "name": "firecrawl/firecrawl-mcp-server",
     "description": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
@@ -551,7 +551,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "fd0c2bc6-721a-424a-ae14-56022030f7fe",
+    "id": "2448d9da-191d-4926-8af9-6fd597e2192f",
     "entity_type": "mcp",
     "name": "modelcontextprotocol/registry",
     "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
@@ -570,7 +570,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "933d23fb-13ce-4f9f-8580-c47bc2e178c2",
+    "id": "0e4b87ac-b85e-4087-957c-b2c4a21b51c9",
     "entity_type": "mcp",
     "name": "BrowserMCP/mcp",
     "description": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser",
@@ -589,7 +589,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "cc1269da-b136-4737-a01b-f5f8688733df",
+    "id": "43728ef5-bb34-4328-85e9-952d708ca9e2",
     "entity_type": "mcp",
     "name": "CursorTouch/Windows-MCP",
     "description": "MCP Server for Computer Use in Windows",
@@ -608,7 +608,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "3552c496-8a6d-4e29-ae36-95f30f3e3702",
+    "id": "08c6641f-c363-4d13-8e85-d5f3f62000fb",
     "entity_type": "mcp",
     "name": "rocketride-org/rocketride-server",
     "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
@@ -627,7 +627,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "757cc0c7-3f82-48ab-9780-5ca49763b9ca",
+    "id": "75f298e3-f51f-4ded-85bf-0201df646b91",
     "entity_type": "mcp",
     "name": "getsentry/XcodeBuildMCP",
     "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
@@ -646,7 +646,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "125d42f2-d6b3-4f2d-a770-a0bbb420e9e1",
+    "id": "e6060ba1-0911-4589-a2a1-788576d8a989",
     "entity_type": "mcp",
     "name": "lharries/whatsapp-mcp",
     "description": "WhatsApp MCP server",
@@ -665,7 +665,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "77120a11-34a2-48d5-82f4-49a00cf8f871",
+    "id": "4513d8b2-eaf4-4506-929d-fd72356618a0",
     "entity_type": "mcp",
     "name": "epiral/bb-browser",
     "description": "Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.",
@@ -684,7 +684,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "58cd1488-e9a3-4362-9085-bb4bdb36e4a8",
+    "id": "c159f0c4-cac1-4c20-9f05-a64debdcb442",
     "entity_type": "mcp",
     "name": "Gentleman-Programming/engram",
     "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
@@ -703,7 +703,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "cb0a7769-f5d1-4bfc-8027-4dbc04450178",
+    "id": "97e4a4ae-3120-42a1-89ef-84b97f5c9f03",
     "entity_type": "mcp",
     "name": "kucherenko/jscpd",
     "description": "Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.",
@@ -722,7 +722,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "aef8d0b3-7bcb-48e0-84fe-a6f30eb129b0",
+    "id": "25435684-58a7-4dc7-b727-bdad45edc445",
     "entity_type": "mcp",
     "name": "mobile-next/mobile-mcp",
     "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
@@ -741,7 +741,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "e4b0cd6f-5500-4792-aabb-c582954c9a22",
+    "id": "245c0163-a776-4313-8441-da1757571eb8",
     "entity_type": "mcp",
     "name": "jacob-bd/gemini-notebook-mcp-cli",
     "description": "Programmatic access to Gemini Notebook - via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills.",
@@ -760,7 +760,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "d59d2ea3-09c0-4605-81f2-68a860e6869e",
+    "id": "80c15e5f-49e2-4c0d-9c97-c7af71ef0bea",
     "entity_type": "mcp",
     "name": "sooperset/mcp-atlassian",
     "description": "MCP server for Atlassian tools (Confluence, Jira)",
@@ -779,7 +779,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "0669bbe4-d576-4c41-b979-c123a68adbd9",
+    "id": "10b776c4-b38e-45e1-98a1-acc2502f1a0c",
     "entity_type": "mcp",
     "name": "FlorianBruniaux/claude-code-ultimate-guide",
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.",
@@ -798,7 +798,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "f3e7f545-0730-4db1-aaa8-3834c0030877",
+    "id": "194765a4-9c1c-4f46-9817-db31115d0bda",
     "entity_type": "mcp",
     "name": "appcypher/awesome-mcp-servers",
     "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
@@ -817,7 +817,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "4de10726-2e44-4166-87a6-18b33a9ad0e1",
+    "id": "9c093511-cef7-4289-9536-b9e9679d72dc",
     "entity_type": "mcp",
     "name": "agent-infra/sandbox",
     "description": "All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.",
@@ -836,7 +836,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "70596970-fbac-4f69-98c3-ef32ce7f8c1b",
+    "id": "a09a44d4-deb8-4c39-949d-7687c19a142b",
     "entity_type": "mcp",
     "name": "executeautomation/mcp-playwright",
     "description": "Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌",
@@ -855,7 +855,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "0b38b62d-1367-458d-910f-474a0b2cb5ea",
+    "id": "7c32e2b9-090f-4ebf-b0e2-9872f4158637",
     "entity_type": "mcp",
     "name": "Q00/ouroboros",
     "description": "Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 13 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
@@ -874,7 +874,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "e11c0ae9-cc61-4f6c-afdd-bf51ec52dddb",
+    "id": "85a5b84f-8739-4fe4-8afa-122e12f38cce",
     "entity_type": "mcp",
     "name": "nanbingxyz/5ire",
     "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .",
@@ -893,7 +893,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "4a6d8aca-5c03-42e4-907f-0cbccc7cc499",
+    "id": "542ae039-7a3f-42ac-b4f7-e7c89dcc434a",
     "entity_type": "mcp",
     "name": "Coding-Solo/godot-mcp",
     "description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
@@ -912,7 +912,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "a0f03587-32a3-4652-9e23-696a7818e580",
+    "id": "7d02f8e9-0762-4cd7-82ea-05a539bb05f6",
     "entity_type": "mcp",
     "name": "openclaw/Peekaboo",
     "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
@@ -931,7 +931,7 @@
     "runtime_requirements": []
   },
   {
-    "id": "8351370f-51be-4dc4-ba60-536ec397e300",
+    "id": "622086df-4b95-4f19-b3bd-ea88ba570834",
     "entity_type": "mcp",
     "name": "modelcontextprotocol/go-sdk",
     "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",

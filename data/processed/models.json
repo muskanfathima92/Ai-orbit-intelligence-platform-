@@ -1,6 +1,6 @@
 [
   {
-    "id": "e3036bda-4005-4ecb-92e1-ed08a99cc7fa",
+    "id": "c8d467f0-6fe0-4f04-b3d2-6a5e04ace034",
     "entity_type": "model",
     "name": "masterful/gligen-1-4-generation-text-box",
     "description": "",
@@ -18,7 +18,7 @@
     "provider": null
   },
   {
-    "id": "501a9287-9fa9-43fc-97bf-bc6fd2f5d114",
+    "id": "dfcb06ab-126c-48e7-9be6-57be296ec1be",
     "entity_type": "model",
     "name": "RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -36,7 +36,7 @@
     "provider": null
   },
   {
-    "id": "1aedd7b6-ea64-4196-9511-76b7b4bafaf2",
+    "id": "4b8519dc-27ec-4d78-94be-408daf22543d",
     "entity_type": "model",
     "name": "RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -54,7 +54,7 @@
     "provider": null
   },
   {
-    "id": "b7658eed-398f-45fe-828c-90bd67630dab",
+    "id": "4b5ef70c-5ac7-4bf7-9729-e01a01ed3119",
     "entity_type": "model",
     "name": "RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -72,7 +72,7 @@
     "provider": null
   },
   {
-    "id": "7bb6a323-cedb-4372-9c64-07332339d0ed",
+    "id": "65fd09dd-172b-4061-9616-e52f70792577",
     "entity_type": "model",
     "name": "randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only",
     "description": "",
@@ -90,7 +90,7 @@
     "provider": null
   },
   {
-    "id": "df03ca78-2417-4028-89e1-716c32732f36",
+    "id": "76ab0481-ee64-4ff7-9781-f04b0995514a",
     "entity_type": "model",
     "name": "RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -108,7 +108,7 @@
     "provider": null
   },
   {
-    "id": "2692f2b5-7bcd-4177-bb00-a4a750117956",
+    "id": "04472982-d331-4f05-8832-acc21838596a",
     "entity_type": "model",
     "name": "RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -126,7 +126,7 @@
     "provider": null
   },
   {
-    "id": "c71ab92e-895b-40f2-8858-5b6ab179eb2f",
+    "id": "693e74a8-14dc-4b56-86e0-d8ea824be96f",
     "entity_type": "model",
     "name": "RichardErkhov/spruhamohanty_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -144,7 +144,7 @@
     "provider": null
   },
   {
-    "id": "3073161a-d42f-4061-bfe8-1f32c5dfc59d",
+    "id": "dd9af3c7-8faa-490d-954e-d8c5656298e3",
     "entity_type": "model",
     "name": "RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -162,7 +162,7 @@
     "provider": null
   },
   {
-    "id": "a4a98363-314e-479a-b7cf-aa4486a8dec3",
+    "id": "b873669e-80eb-43e2-8201-1a6077576190",
     "entity_type": "model",
     "name": "RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -180,7 +180,7 @@
     "provider": null
   },
   {
-    "id": "efdc6197-25b9-45bd-9663-20560540d12c",
+    "id": "a1703b67-401d-400f-8727-326c25f56666",
     "entity_type": "model",
     "name": "RichardErkhov/padidam_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -198,7 +198,7 @@
     "provider": null
   },
   {
-    "id": "ce333356-2b43-4181-8167-1b824386ea73",
+    "id": "7da73ec2-3563-48b5-a432-33183f1ea0e6",
     "entity_type": "model",
     "name": "RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -216,7 +216,7 @@
     "provider": null
   },
   {
-    "id": "8d6a6df5-d6a0-4ee1-a3c0-985d9553afd1",
+    "id": "67c77ef3-5ca4-4f62-b7da-6ff43861157d",
     "entity_type": "model",
     "name": "RichardErkhov/Rohan5076_-_medquad-text-generation-gpt2-gguf",
     "description": "",
@@ -234,7 +234,7 @@
     "provider": null
   },
   {
-    "id": "4d4e6908-d750-41f0-8bbd-7a056cc418e4",
+    "id": "55e1cc9d-6548-4592-9149-9c2951e6c1ae",
     "entity_type": "model",
     "name": "RichardErkhov/sravankumarmsb_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -252,7 +252,7 @@
     "provider": null
   },
   {
-    "id": "d26b6b77-fb39-402e-a890-7ab56fa29c9e",
+    "id": "a983e3f5-7848-456c-9af1-8b9a46115b01",
     "entity_type": "model",
     "name": "RichardErkhov/amit-techi_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -270,7 +270,7 @@
     "provider": null
   },
   {
-    "id": "413127d9-6597-40b5-a365-f3801c989376",
+    "id": "010d77d0-b1cd-4129-bb63-f85b0f975490",
     "entity_type": "model",
     "name": "RichardErkhov/MeghanathReddy_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -288,7 +288,7 @@
     "provider": null
   },
   {
-    "id": "e81ca429-b456-43fe-92a7-500884b43d90",
+    "id": "95ce1335-1d2a-43d7-80de-d44737000c5f",
     "entity_type": "model",
     "name": "RichardErkhov/Yaram_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -306,7 +306,7 @@
     "provider": null
   },
   {
-    "id": "68037587-9b80-4e81-809c-59fa297709f6",
+    "id": "97297478-c189-4d96-b2ca-3ed8f60a50d6",
     "entity_type": "model",
     "name": "RichardErkhov/Ashokrajudevops_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -324,7 +324,7 @@
     "provider": null
   },
   {
-    "id": "0fc786e9-57cb-46fd-a342-f1e15dd042f8",
+    "id": "77e99f6b-447b-458c-9401-0c53a0dd12c6",
     "entity_type": "model",
     "name": "RichardErkhov/msahu_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -342,7 +342,7 @@
     "provider": null
   },
   {
-    "id": "bdf87c90-fd13-444e-895e-041e7534d1c7",
+    "id": "b4e2c64f-d790-440c-b2ce-69b469b29d4d",
     "entity_type": "model",
     "name": "RichardErkhov/shubham11goel_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -360,7 +360,7 @@
     "provider": null
   },
   {
-    "id": "24b17b68-ebef-45b7-ab08-800f256bd442",
+    "id": "6ad0b8fa-ff17-4ad2-9828-8c6a44e9c081",
     "entity_type": "model",
     "name": "RichardErkhov/Shwetaupadhyay7878_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -378,7 +378,7 @@
     "provider": null
   },
   {
-    "id": "a122a126-d898-4d02-826d-103867199865",
+    "id": "8b831459-8f48-4b4f-80d0-b52ba1d9b8ea",
     "entity_type": "model",
     "name": "RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -396,7 +396,7 @@
     "provider": null
   },
   {
-    "id": "8e559388-08fe-496d-84a1-eb35be992ba5",
+    "id": "a6a715aa-8141-402f-a706-925fd651a5ce",
     "entity_type": "model",
     "name": "RichardErkhov/vamseelatha2002_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -414,7 +414,7 @@
     "provider": null
   },
   {
-    "id": "92915246-59f8-435a-abd2-cd31d78a1784",
+    "id": "d054e08f-3a88-4cbe-b541-f530f3cc7327",
     "entity_type": "model",
     "name": "RichardErkhov/veeravalluri_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -432,7 +432,7 @@
     "provider": null
   },
   {
-    "id": "a004bef7-d98f-470c-8229-1fa5559b9865",
+    "id": "ea1ba98d-8d2b-45f2-a452-c3ed9c6379a9",
     "entity_type": "model",
     "name": "RichardErkhov/amitakumarjha_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -450,7 +450,7 @@
     "provider": null
   },
   {
-    "id": "117b7b47-5433-4edf-920b-dc64460d5678",
+    "id": "b7b0975d-8b5d-492a-b3dd-3f12cae0569d",
     "entity_type": "model",
     "name": "RichardErkhov/SantoshGollapudi_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -468,7 +468,7 @@
     "provider": null
   },
   {
-    "id": "e919acf7-38ca-4ebd-8703-dfbf02501949",
+    "id": "3cb87dc5-b990-4d9a-a53c-0ab5de2d9489",
     "entity_type": "model",
     "name": "RichardErkhov/abhishkgoel_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -486,7 +486,7 @@
     "provider": null
   },
   {
-    "id": "45bd4759-d31d-4bbe-b028-1f81538f1dcf",
+    "id": "f4493d84-a368-40de-8dfe-14607e7c0de0",
     "entity_type": "model",
     "name": "RichardErkhov/VJ84a_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -504,7 +504,7 @@
     "provider": null
   },
   {
-    "id": "1b607c06-c39d-4e1a-b32b-9e20c6a44168",
+    "id": "089a3aed-c294-4e5a-ba1c-220b33d446f8",
     "entity_type": "model",
     "name": "RichardErkhov/bikkibhagya93_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -522,7 +522,7 @@
     "provider": null
   },
   {
-    "id": "34a6bd7e-14f0-46d1-9553-8a13cf2c3431",
+    "id": "fe0e4947-fed5-491c-8bd8-d88ef8e7e74e",
     "entity_type": "model",
     "name": "RichardErkhov/sridharsamala_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -540,7 +540,7 @@
     "provider": null
   },
   {
-    "id": "82a4355f-2fe9-4c07-be91-f8742b526ab3",
+    "id": "387cb6ca-23e2-412c-85ab-9038dcc1f1d9",
     "entity_type": "model",
     "name": "RichardErkhov/NavaneethRaj_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -558,7 +558,7 @@
     "provider": null
   },
   {
-    "id": "3a09716e-783b-4ceb-9288-35c93c10f4c1",
+    "id": "890b7ff8-614f-4e52-844d-ce90d4c33d78",
     "entity_type": "model",
     "name": "RichardErkhov/graphitesin_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -576,7 +576,7 @@
     "provider": null
   },
   {
-    "id": "4664892d-56a8-4318-9efb-8675b46aa51e",
+    "id": "12171870-b572-4b14-b636-f3167fd2ccaa",
     "entity_type": "model",
     "name": "RichardErkhov/DIPEN-SEN_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -594,7 +594,7 @@
     "provider": null
   },
   {
-    "id": "b920589f-7a4a-4386-93d3-389e2199387a",
+    "id": "a8e816e9-3ee6-4c13-984a-a7e305c614c0",
     "entity_type": "model",
     "name": "RichardErkhov/jimzp_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -612,7 +612,7 @@
     "provider": null
   },
   {
-    "id": "6f1c2fbe-8ec2-4e54-befd-ca1cedb643d5",
+    "id": "664765b3-afc1-4ca0-b661-f9f19fb5b52e",
     "entity_type": "model",
     "name": "RichardErkhov/Ashmit003_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -630,7 +630,7 @@
     "provider": null
   },
   {
-    "id": "f06e0f92-b13d-482b-aeec-f3a10bbd3aa1",
+    "id": "43ad7522-b058-4a3c-b73a-b4c403a1a0a7",
     "entity_type": "model",
     "name": "RichardErkhov/Vidyayini_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -648,7 +648,7 @@
     "provider": null
   },
   {
-    "id": "389a3f03-364a-4345-8fb9-f45671215596",
+    "id": "dc7996e3-b0c0-4d04-8845-b61ff1f77240",
     "entity_type": "model",
     "name": "RichardErkhov/Challa42_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -666,7 +666,7 @@
     "provider": null
   },
   {
-    "id": "5c944c62-677d-41ae-90df-cf40fda2562c",
+    "id": "2cb22dce-7e4d-45e3-b814-28e4ad236c69",
     "entity_type": "model",
     "name": "RichardErkhov/rgontia_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -684,7 +684,7 @@
     "provider": null
   },
   {
-    "id": "d5511590-20d1-472c-b50b-7840276193f5",
+    "id": "292d706d-52eb-4b7e-90be-fd41300687bb",
     "entity_type": "model",
     "name": "gligen/gligen-generation-text-box",
     "description": "",
@@ -702,7 +702,7 @@
     "provider": null
   },
   {
-    "id": "1ba1ee4f-0067-40ad-a4f4-9247409721f2",
+    "id": "545b19f1-179d-4749-b21b-aa923c5aded7",
     "entity_type": "model",
     "name": "RichardErkhov/sarveshdayma27_-_Text_Generation-gguf",
     "description": "",
@@ -720,7 +720,7 @@
     "provider": null
   },
   {
-    "id": "8c1ae336-e387-4b9d-b891-2785281555e8",
+    "id": "6e3c4831-5346-4e50-bc0b-a47e278c284c",
     "entity_type": "model",
     "name": "RichardErkhov/ronykris_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -738,7 +738,7 @@
     "provider": null
   },
   {
-    "id": "32acfe66-9c0f-4436-9844-781db678cbd8",
+    "id": "41f697a8-a04c-4e50-8e2c-6246e4777190",
     "entity_type": "model",
     "name": "RichardErkhov/ssaiteja16_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -756,7 +756,7 @@
     "provider": null
   },
   {
-    "id": "bd63fca6-6371-44e9-974b-fe84f738c4a9",
+    "id": "4710399f-a53e-4ec6-ab0f-af4b9537dec3",
     "entity_type": "model",
     "name": "RichardErkhov/sourcevin_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -774,7 +774,7 @@
     "provider": null
   },
   {
-    "id": "0667db7a-c070-4123-a0d3-df7c55fa8d15",
+    "id": "120ed82c-cffb-46a1-9aa0-5956e16533a3",
     "entity_type": "model",
     "name": "RichardErkhov/maddy-1402_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -792,7 +792,7 @@
     "provider": null
   },
   {
-    "id": "070bcf82-b08f-48d6-97a3-45c77a8926fb",
+    "id": "94af9c71-b6dd-4101-9c51-708e84b7aedc",
     "entity_type": "model",
     "name": "RichardErkhov/shivani-intel_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -810,7 +810,7 @@
     "provider": null
   },
   {
-    "id": "31f73d38-69bb-4ec5-a45a-820f49a93a52",
+    "id": "31d60d23-cad2-4c85-ada2-5f0894b97920",
     "entity_type": "model",
     "name": "RichardErkhov/SaiSowmya99_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -828,7 +828,7 @@
     "provider": null
   },
   {
-    "id": "105f7548-e117-4ac0-8c41-3b897635dfcf",
+    "id": "5b66edf7-eec3-46f3-88f4-29e2f2cd6028",
     "entity_type": "model",
     "name": "RichardErkhov/siree921_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -846,7 +846,7 @@
     "provider": null
   },
   {
-    "id": "7efee092-1529-4f08-a360-88c30f451183",
+    "id": "6fdf063c-1728-4108-b863-9c3dae4e1dd6",
     "entity_type": "model",
     "name": "RichardErkhov/chinmoydey_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -864,7 +864,7 @@
     "provider": null
   },
   {
-    "id": "2b1f9432-d794-44f9-8d32-e1886bf76980",
+    "id": "2e05cd7c-1c92-42ad-9f17-c2b0762c7bf9",
     "entity_type": "model",
     "name": "RichardErkhov/leelamca_-_gita-text-generation-gpt2-gguf",
     "description": "",
@@ -882,7 +882,7 @@
     "provider": null
   },
   {
-    "id": "ba2437d6-b509-4fda-a5ef-5824705cbdcc",
+    "id": "82a27445-499e-4ae0-a515-e7eb4870a6b0",
     "entity_type": "model",
     "name": "RichardErkhov/bharatsonti_-_gita-text-generation-gpt2-gguf",
     "description": "",

@@ -1,6 +1,6 @@
 [
   {
-    "id": "a780c356-45a0-4974-ba4c-870f45feb818",
+    "id": "952717f4-34bc-494a-b14a-65e113bcaf51",
     "entity_type": "repository",
     "name": "AI-Expert-Roadmap",
     "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
@@ -17,7 +17,7 @@
     "last_updated": "2026-08-18T09:52:22Z"
   },
   {
-    "id": "608a7076-8303-44c1-9777-36b950b723a2",
+    "id": "9edd5620-d2f3-4c67-af65-2a9810290ce3",
     "entity_type": "repository",
     "name": "awesome-artificial-intelligence",
     "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
@@ -34,7 +34,7 @@
     "last_updated": "2026-08-18T14:28:01Z"
   },
   {
-    "id": "ed9cf939-6334-4103-a05c-32696fd3e79c",
+    "id": "5e6812f3-f3a3-4a01-90da-5f523a9da409",
     "entity_type": "repository",
     "name": "Ai-Learn",
     "description": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域",
@@ -51,7 +51,7 @@
     "last_updated": "2026-08-18T12:53:18Z"
   },
   {
-    "id": "67c30179-6fab-4223-83c1-9e55b16dea60",
+    "id": "c6fbae47-8dcb-418f-b880-59cd897965e8",
     "entity_type": "repository",
     "name": "awesome-generative-ai",
     "description": "A curated list of modern Generative Artificial Intelligence projects and services",
@@ -68,7 +68,7 @@
     "last_updated": "2026-08-18T11:52:55Z"
   },
   {
-    "id": "9ced4e6c-7547-4282-a00d-bff51e286bc7",
+    "id": "be44feb6-65a4-41da-8526-0fd9934efb15",
     "entity_type": "repository",
     "name": "paper2gui",
     "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
@@ -85,7 +85,7 @@
     "last_updated": "2026-08-18T13:11:42Z"
   },
   {
-    "id": "d21db7cd-b5c3-4123-a99c-1fd9c30d15a3",
+    "id": "792bfd64-4e96-4181-8b22-7a383452550e",
     "entity_type": "repository",
     "name": "warriorjs",
     "description": "🏰 An exciting game of programming and Artificial Intelligence",
@@ -102,7 +102,7 @@
     "last_updated": "2026-08-18T13:23:14Z"
   },
   {
-    "id": "76902f62-8d12-40ae-af99-5220a4597781",
+    "id": "427bc6e3-af81-4fb6-91ee-98ef2047b986",
     "entity_type": "repository",
     "name": "aima-python",
     "description": "Python implementation of algorithms from Russell And Norvig's \"Artificial Intelligence - A Modern Approach\"",
@@ -119,7 +119,7 @@
     "last_updated": "2026-08-18T06:59:14Z"
   },
   {
-    "id": "c9aadc95-73de-4dca-998d-45a009871aea",
+    "id": "a3b7653e-4285-4117-9453-ed3783dbbec6",
     "entity_type": "repository",
     "name": "paip-lisp",
     "description": "Lisp code for the textbook \"Paradigms of Artificial Intelligence Programming\"",
@@ -136,7 +136,7 @@
     "last_updated": "2026-08-16T16:45:51Z"
   },
   {
-    "id": "a89d5313-fa8d-40f6-acaa-452259d64737",
+    "id": "d08523c3-3f9b-4863-a338-323abdcbd6e4",
     "entity_type": "repository",
     "name": "mycroft-core",
     "description": "Mycroft Core, the Mycroft Artificial Intelligence platform.",
@@ -153,7 +153,7 @@
     "last_updated": "2026-08-09T12:06:47Z"
   },
   {
-    "id": "7757806e-4747-43a2-842d-51b9bf1cddb6",
+    "id": "1f0c7413-0905-4b26-bc2e-bdf369cc6a9a",
     "entity_type": "repository",
     "name": "venom",
     "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.",
@@ -170,7 +170,7 @@
     "last_updated": "2026-08-17T13:43:36Z"
   },
   {
-    "id": "0586f348-abcd-498d-8e2c-e0dd83ce908c",
+    "id": "7dc348a3-470c-4e90-bdc8-a3afeee32271",
     "entity_type": "repository",
     "name": "courses",
     "description": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
@@ -187,7 +187,7 @@
     "last_updated": "2026-08-15T06:23:11Z"
   },
   {
-    "id": "411c9437-c3b5-4fd5-a31f-6af687918d12",
+    "id": "9f50a255-b67d-42f8-946d-f10ede76c96d",
     "entity_type": "repository",
     "name": "awesome-chatgpt",
     "description": "🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI",
@@ -204,7 +204,7 @@
     "last_updated": "2026-08-18T04:34:45Z"
   },
   {
-    "id": "f677837e-ab68-4a2f-86d5-ba6aae299a70",
+    "id": "a353e420-4789-4a0d-9d33-6e7599d702bf",
     "entity_type": "repository",
     "name": "AI-Project-Gallery",
     "description": "This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts.",
@@ -221,7 +221,7 @@
     "last_updated": "2026-08-18T14:50:39Z"
   },
   {
-    "id": "a3bf1148-81c0-435c-a7de-4c0db478e569",
+    "id": "00bc087e-e57e-45f9-8213-5967f0c41cdd",
     "entity_type": "repository",
     "name": "awesome-ai-tools",
     "description": "A curated list of Artificial Intelligence Top Tools",
@@ -238,7 +238,7 @@
     "last_updated": "2026-08-18T15:00:58Z"
   },
   {
-    "id": "830ccb34-e66d-42cb-a846-1936a5b53538",
+    "id": "2a6082d2-73cf-402d-8a73-2112a06d629b",
     "entity_type": "repository",
     "name": "start-machine-learning",
     "description": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
@@ -255,7 +255,7 @@
     "last_updated": "2026-08-17T20:26:49Z"
   },
   {
-    "id": "32c94610-e7df-4edd-8aa6-df26614f163b",
+    "id": "b735348e-7003-410a-863f-1fdf5609445f",
     "entity_type": "repository",
     "name": "muzic",
     "description": "Muzic: Music Understanding and Generation with Artificial Intelligence",
@@ -272,7 +272,7 @@
     "last_updated": "2026-08-18T08:45:29Z"
   },
   {
-    "id": "2329fd1c-45a3-4051-b058-db3d37a858e5",
+    "id": "91f40063-8bff-4b6a-a2f8-fc267067fcdc",
     "entity_type": "repository",
     "name": "EconML",
     "description": "ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.",
@@ -289,7 +289,7 @@
     "last_updated": "2026-08-15T14:17:18Z"
   },
   {
-    "id": "9ce865d8-b5b3-49b7-9c14-d13c063b5452",
+    "id": "9c658e7e-4429-4781-80cb-ef254091fac7",
     "entity_type": "repository",
     "name": "serenata-de-amor",
     "description": "🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**",
@@ -306,7 +306,7 @@
     "last_updated": "2026-08-15T17:07:07Z"
   },
   {
-    "id": "1b2538dc-4c8a-480c-bac3-0355d5da9d51",
+    "id": "3ad3560f-72fc-4dee-b840-1bd929f5b014",
     "entity_type": "repository",
     "name": "sql-translator",
     "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
@@ -323,7 +323,7 @@
     "last_updated": "2026-08-12T18:26:39Z"
   },
   {
-    "id": "2295b173-f46c-4ea8-9c2b-692a1f217fb8",
+    "id": "6e0cab51-e261-45e7-abcd-33aeb4d4d84e",
     "entity_type": "repository",
     "name": "malmo",
     "description": "Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:",
@@ -340,7 +340,7 @@
     "last_updated": "2026-08-18T10:10:57Z"
   },
   {
-    "id": "669eb84f-2072-4af8-95ea-a9f42aa52b15",
+    "id": "95101e6b-dde9-435a-b1d5-ead146a5699c",
     "entity_type": "repository",
     "name": "AI-ML-Roadmap-from-scratch",
     "description": "Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.",
@@ -357,7 +357,7 @@
     "last_updated": "2026-08-18T07:24:26Z"
   },
   {
-    "id": "bb2f9ab2-028b-4b26-9734-0a4cb76a908e",
+    "id": "9b1e24ed-757a-498b-a287-27ea8a3f0782",
     "entity_type": "repository",
     "name": "Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
     "description": "A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.",
@@ -374,7 +374,7 @@
     "last_updated": "2026-08-14T20:33:27Z"
   },
   {
-    "id": "9876cebe-7f8b-4c1a-8cf6-121b7ad6ce38",
+    "id": "d2dca76e-1653-4821-8fb0-bcc3d8f59e1f",
     "entity_type": "repository",
     "name": "aiac",
     "description": "Artificial Intelligence Infrastructure-as-Code Generator.",
@@ -391,7 +391,7 @@
     "last_updated": "2026-08-17T19:11:36Z"
   },
   {
-    "id": "1ab6d02a-7175-46ad-8db7-2a8b1172d08c",
+    "id": "087aa41f-8454-4978-96d8-68335e10fc25",
     "entity_type": "repository",
     "name": "wppconnect",
     "description": "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination",
@@ -408,7 +408,7 @@
     "last_updated": "2026-08-18T14:24:38Z"
   },
   {
-    "id": "9a65b0f4-9ba1-4b4c-a50d-a2338de2fd00",
+    "id": "da903557-0295-4f9c-b304-eca72e5aa1b4",
     "entity_type": "repository",
     "name": "geoai",
     "description": "GeoAI: Artificial Intelligence for Geospatial Data",
@@ -425,7 +425,7 @@
     "last_updated": "2026-08-18T11:19:28Z"
   },
   {
-    "id": "3ca26a48-bd65-4be9-a506-579bbe528a6b",
+    "id": "994904ad-44b7-4de1-a1e9-66436d72284a",
     "entity_type": "repository",
     "name": "AGiXT",
     "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
@@ -442,7 +442,7 @@
     "last_updated": "2026-08-14T07:09:59Z"
   },
   {
-    "id": "19e56f0c-2774-4bd3-a64d-698ea25a8727",
+    "id": "c133de2a-3440-417b-b09d-d1bb08a94925",
     "entity_type": "repository",
     "name": "stanford-cs-221-artificial-intelligence",
     "description": "VIP cheatsheets for Stanford's CS 221 Artificial Intelligence",
@@ -459,7 +459,7 @@
     "last_updated": "2026-08-17T12:17:17Z"
   },
   {
-    "id": "aa611885-23f4-42d9-8e6a-ba87f6a6cd3c",
+    "id": "f2801341-4add-4adb-89bd-9646f6d0ba2e",
     "entity_type": "repository",
     "name": "YC-Killer",
     "description": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups.",
@@ -476,7 +476,7 @@
     "last_updated": "2026-08-18T14:54:46Z"
   },
   {
-    "id": "e44138ce-374c-451a-86c4-700556f55110",
+    "id": "3c111c4b-1bc9-49ee-9ec5-84d521a0fa5e",
     "entity_type": "repository",
     "name": "susi_server",
     "description": "SUSI.AI server backend - the Artificial Intelligence server for personal assistants https://susi.ai",
@@ -493,7 +493,7 @@
     "last_updated": "2026-08-01T20:02:24Z"
   },
   {
-    "id": "219df054-a618-40a0-ae96-5194ba41f72f",
+    "id": "7e1e9b41-f0a9-4ed3-8da6-ffb99eee3c6d",
     "entity_type": "repository",
     "name": "opencog",
     "description": "A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)",
@@ -510,7 +510,7 @@
     "last_updated": "2026-08-13T21:23:50Z"
   },
   {
-    "id": "f3fc504b-854f-44fe-96f4-aae922f7f7d5",
+    "id": "1e7f9adf-ce8d-430a-9953-0694c120a4da",
     "entity_type": "repository",
     "name": "ai-chatbot-framework",
     "description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
@@ -527,7 +527,7 @@
     "last_updated": "2026-08-18T14:23:51Z"
   },
   {
-    "id": "530d2207-7adc-4473-afe3-9ae2c852e950",
+    "id": "5984ba3f-db53-4d11-9c65-3fa96a4736e9",
     "entity_type": "repository",
     "name": "awesome-programming-books",
     "description": "📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization)",
@@ -544,7 +544,7 @@
     "last_updated": "2026-08-18T07:38:09Z"
   },
   {
-    "id": "13d80f89-042e-4ece-a9ae-f7c7efbdc7a0",
+    "id": "0f9af100-a417-4390-9644-324078b34a33",
     "entity_type": "repository",
     "name": "Artificial-Intelligence-Terminology-Database",
     "description": "A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain",
@@ -561,7 +561,7 @@
     "last_updated": "2026-08-18T04:46:15Z"
   },
   {
-    "id": "d7ade131-b7c8-4310-b585-d3bfefea5171",
+    "id": "59c4dfd0-2a3d-4afd-89bc-6e305800be3e",
     "entity_type": "repository",
     "name": "Artificial-Intelligence",
     "description": "Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools",
@@ -578,7 +578,7 @@
     "last_updated": "2026-08-14T17:11:12Z"
   },
   {
-    "id": "d7b7a061-185d-47d6-b963-be4141088c43",
+    "id": "74cf4f6c-1726-4a90-90b8-eb137812e072",
     "entity_type": "repository",
     "name": "awesome-ai-ml-dl",
     "description": "Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.",
@@ -595,7 +595,7 @@
     "last_updated": "2026-08-17T04:00:14Z"
   },
   {
-    "id": "4b01829c-c8b2-49ae-b773-dcca1998a881",
+    "id": "50c8dcd2-3574-46d6-a333-226d53dc17b1",
     "entity_type": "repository",
     "name": "aima-java",
     "description": "Java implementation of algorithms from Russell And Norvig's \"Artificial Intelligence - A Modern Approach\"",
@@ -612,7 +612,7 @@
     "last_updated": "2026-08-12T17:53:43Z"
   },
   {
-    "id": "0048c5be-6000-4457-b0ec-9225a86597c1",
+    "id": "21ce1d87-aa0b-4ac6-8862-c084b3c8f9f9",
     "entity_type": "repository",
     "name": "ai_all_resources",
     "description": "A curated list of Best Artificial Intelligence Resources",
@@ -629,7 +629,7 @@
     "last_updated": "2026-08-14T12:53:11Z"
   },
   {
-    "id": "d91947d1-e253-4c5d-af8c-edc48adb7bd0",
+    "id": "fb796e1f-4071-4711-92be-0401e96f64f5",
     "entity_type": "repository",
     "name": "awesome-artificial-intelligence-regulation",
     "description": "This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.",
@@ -646,7 +646,7 @@
     "last_updated": "2026-08-17T19:11:21Z"
   },
   {
-    "id": "dd8652b6-5fcd-454c-9822-a8773e114a70",
+    "id": "196f8dac-2089-4b5e-91dc-80ef1550c282",
     "entity_type": "repository",
     "name": "DI-star",
     "description": "An artificial intelligence platform for the StarCraft II with large-scale distributed training and grand-master agents.",
@@ -663,7 +663,7 @@
     "last_updated": "2026-08-09T08:28:20Z"
   },
   {
-    "id": "9f52fb4e-c57a-4410-b624-f9c14ee8baaf",
+    "id": "f192cd4f-25f0-4bfb-baa3-1478de0aa86a",
     "entity_type": "repository",
     "name": "pywinassistant",
     "description": "The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully operates graphical-user-interfaces (GUIs) by using only natural language. Uses Visualization-of-Thought and Chain-of-Thought reasoning to elicit spatial reasoning and perception, emulates, plans and simulates synthetic HID interactions.",
@@ -680,7 +680,7 @@
     "last_updated": "2026-08-04T19:18:56Z"
   },
   {
-    "id": "51115de1-bcc2-477a-81db-22edd3b2f76a",
+    "id": "4ef7071d-434f-48fc-8665-cb1fcf47da3a",
     "entity_type": "repository",
     "name": "gdx-ai",
     "description": "Artificial Intelligence framework for games based on libGDX or not. Features: Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines",
@@ -697,7 +697,7 @@
     "last_updated": "2026-08-17T15:51:42Z"
   },
   {
-    "id": "b84a2ee4-cee3-4585-be64-5bb6092a1197",
+    "id": "64b40551-7d11-4f85-8a47-0f7276bdbf03",
     "entity_type": "repository",
     "name": "AI-Resources-Central",
     "description": "Bringing together outstanding artificial intelligence (AI) open source projects from around the world.",
@@ -714,7 +714,7 @@
     "last_updated": "2026-08-16T05:09:46Z"
   },
   {
-    "id": "09199487-9506-4e9d-adc3-c7d038e7b43f",
+    "id": "82784de4-28aa-400b-8170-495a32db152d",
     "entity_type": "repository",
     "name": "taranis-ai",
     "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
@@ -731,7 +731,7 @@
     "last_updated": "2026-08-18T13:27:51Z"
   },
   {
-    "id": "44336839-1f6c-43e2-ab24-28ae0d5a93f2",
+    "id": "d4fc2046-c488-4435-bf61-99ed8ae8beeb",
     "entity_type": "repository",
     "name": "awesome-blockchain-ai",
     "description": "A curated list of Blockchain projects for Artificial Intelligence and Machine Learning",
@@ -748,7 +748,7 @@
     "last_updated": "2026-08-18T08:43:56Z"
   },
   {
-    "id": "634b0b63-f5f6-4b5c-b7fc-85b216ac3a09",
+    "id": "74165373-b5c8-436c-a7c7-e5620bb783b4",
     "entity_type": "repository",
     "name": "AForge.NET",
     "description": "AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms, machine learning, robotics, etc.",
@@ -765,7 +765,7 @@
     "last_updated": "2026-08-11T13:39:11Z"
   },
   {
-    "id": "60ce0f58-fc08-47ad-be44-1a9fb4149cd0",
+    "id": "c8641e17-fd56-47b3-b3f8-b056827d8c55",
     "entity_type": "repository",
     "name": "game-datasets",
     "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -782,7 +782,7 @@
     "last_updated": "2026-08-12T10:37:05Z"
   },
   {
-    "id": "bd86a183-bbc3-4b9b-9c38-80090a41bd0c",
+    "id": "ec775b9c-9422-44a8-9895-4851bb5a9952",
     "entity_type": "repository",
     "name": "AI-Programmer",
     "description": "Using artificial intelligence and genetic algorithms to automatically write programs. Tutorial: http://www.primaryobjects.com/cms/article149",
@@ -799,7 +799,7 @@
     "last_updated": "2026-08-03T02:38:13Z"
   },
   {
-    "id": "4911bebb-c66d-4918-92ce-b1ad7983bdad",
+    "id": "876ec827-3e70-4ef8-bf03-e8c1f81f57a7",
     "entity_type": "repository",
     "name": "aima-exercises",
     "description": "Exercises for the book Artificial Intelligence: A Modern Approach",
@@ -816,7 +816,7 @@
     "last_updated": "2026-08-15T11:59:15Z"
   },
   {
-    "id": "50b7034a-e35f-40cb-ab8b-512c03827970",
+    "id": "141de6a0-fa77-4c0d-9e6d-4f3c4e989e3c",
     "entity_type": "repository",
     "name": "ML-for-High-Schoolers",
     "description": "This guide details a learning path for high school students looking to explore the field of Machine Learning & Artificial Intelligence.",
@@ -833,7 +833,7 @@
     "last_updated": "2026-08-11T02:49:16Z"
   },
   {
-    "id": "8c754438-fa2b-42ee-ba77-075dfe6067b7",
+    "id": "ec867bcc-d261-46b3-aaee-c8f1b5718f70",
     "entity_type": "repository",
     "name": "simpleai",
     "description": "simple artificial intelligence utilities",
