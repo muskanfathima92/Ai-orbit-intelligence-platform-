@@ -1,0 +1,16 @@
+{
+  "total_entities": 300,
+  "entity_types": {
+    "repository": 50,
+    "model": 50,
+    "news": 50,
+    "mcp": 50,
+    "tool": 50,
+    "company": 50
+  },
+  "missing_names": 0,
+  "missing_sources": 0,
+  "missing_urls": 0,
+  "duplicate_ids": 0,
+  "quality_status": "PASS"
+}

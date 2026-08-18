@@ -1,0 +1,852 @@
+[
+  {
+    "id": "54ee4ba2-e817-45e8-ae28-bce01fec19d0",
+    "entity_type": "repository",
+    "name": "AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 31214,
+    "primary_language": "JavaScript",
+    "last_updated": "2026-08-18T09:52:22Z"
+  },
+  {
+    "id": "3c4a6d09-41b3-4c17-9a14-cb0d95804028",
+    "entity_type": "repository",
+    "name": "awesome-artificial-intelligence",
+    "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 15880,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T14:28:01Z"
+  },
+  {
+    "id": "1713a711-8c95-4c44-b34f-b7ad1d25a7f2",
+    "entity_type": "repository",
+    "name": "Ai-Learn",
+    "description": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域",
+    "url": "https://github.com/tangyudi/Ai-Learn",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 13266,
+    "primary_language": null,
+    "last_updated": "2026-08-18T12:53:18Z"
+  },
+  {
+    "id": "39f8f163-6e9b-43ff-b066-37c9a43e588e",
+    "entity_type": "repository",
+    "name": "awesome-generative-ai",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+    "url": "https://github.com/steven2358/awesome-generative-ai",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 12509,
+    "primary_language": null,
+    "last_updated": "2026-08-18T11:52:55Z"
+  },
+  {
+    "id": "dbb3fcd2-552e-40bb-81b1-42c5ab243bdb",
+    "entity_type": "repository",
+    "name": "paper2gui",
+    "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 10710,
+    "primary_language": "Jupyter Notebook",
+    "last_updated": "2026-08-18T13:11:42Z"
+  },
+  {
+    "id": "efb5cfb1-edee-4939-bd53-cee55dad8c9b",
+    "entity_type": "repository",
+    "name": "warriorjs",
+    "description": "🏰 An exciting game of programming and Artificial Intelligence",
+    "url": "https://github.com/olistic/warriorjs",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 9533,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T13:23:14Z"
+  },
+  {
+    "id": "87d4dabb-c116-426c-bba2-4ed83218cb28",
+    "entity_type": "repository",
+    "name": "aima-python",
+    "description": "Python implementation of algorithms from Russell And Norvig's \"Artificial Intelligence - A Modern Approach\"",
+    "url": "https://github.com/aimacode/aima-python",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 8793,
+    "primary_language": "Jupyter Notebook",
+    "last_updated": "2026-08-18T06:59:14Z"
+  },
+  {
+    "id": "c5366542-826d-4abf-97dc-eb63063f4cfa",
+    "entity_type": "repository",
+    "name": "paip-lisp",
+    "description": "Lisp code for the textbook \"Paradigms of Artificial Intelligence Programming\"",
+    "url": "https://github.com/norvig/paip-lisp",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 7503,
+    "primary_language": "Common Lisp",
+    "last_updated": "2026-08-16T16:45:51Z"
+  },
+  {
+    "id": "1a02cf38-7e82-4f85-a319-1b1f5ed74e46",
+    "entity_type": "repository",
+    "name": "mycroft-core",
+    "description": "Mycroft Core, the Mycroft Artificial Intelligence platform. ",
+    "url": "https://github.com/MycroftAI/mycroft-core",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 6609,
+    "primary_language": "Python",
+    "last_updated": "2026-08-09T12:06:47Z"
+  },
+  {
+    "id": "498538ea-662f-4bc7-873f-24b8e9e9a84c",
+    "entity_type": "repository",
+    "name": "venom",
+    "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.",
+    "url": "https://github.com/vynect/venom",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 6573,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-17T13:43:36Z"
+  },
+  {
+    "id": "859e1386-c0ca-4c8e-805f-7e6ddf9d3f79",
+    "entity_type": "repository",
+    "name": "courses",
+    "description": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
+    "url": "https://github.com/SkalskiP/courses",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 6480,
+    "primary_language": "Python",
+    "last_updated": "2026-08-15T06:23:11Z"
+  },
+  {
+    "id": "448c4cf1-57a4-48ad-a6a9-515389a07716",
+    "entity_type": "repository",
+    "name": "awesome-chatgpt",
+    "description": "🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI",
+    "url": "https://github.com/sindresorhus/awesome-chatgpt",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 6374,
+    "primary_language": null,
+    "last_updated": "2026-08-18T04:34:45Z"
+  },
+  {
+    "id": "0d4af02d-3a89-4440-a105-2920550b0ae4",
+    "entity_type": "repository",
+    "name": "AI-Project-Gallery",
+    "description": "This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts.",
+    "url": "https://github.com/KalyanM45/AI-Project-Gallery",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 6353,
+    "primary_language": null,
+    "last_updated": "2026-08-18T14:50:39Z"
+  },
+  {
+    "id": "10129a93-5e07-4ac9-b21f-f025570bd295",
+    "entity_type": "repository",
+    "name": "awesome-ai-tools",
+    "description": "A curated list of Artificial Intelligence Top Tools",
+    "url": "https://github.com/mahseema/awesome-ai-tools",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 5990,
+    "primary_language": null,
+    "last_updated": "2026-08-18T15:00:58Z"
+  },
+  {
+    "id": "513b05eb-f457-458a-af54-31948850ca92",
+    "entity_type": "repository",
+    "name": "start-machine-learning",
+    "description": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
+    "url": "https://github.com/louisfb01/start-machine-learning",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 5294,
+    "primary_language": null,
+    "last_updated": "2026-08-17T20:26:49Z"
+  },
+  {
+    "id": "01c6a2ff-d257-4b25-98a8-48c498377d99",
+    "entity_type": "repository",
+    "name": "muzic",
+    "description": "Muzic: Music Understanding and Generation with Artificial Intelligence",
+    "url": "https://github.com/microsoft/muzic",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 4947,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:45:29Z"
+  },
+  {
+    "id": "ab155fc8-c265-48fc-bc1f-e93e639f29c3",
+    "entity_type": "repository",
+    "name": "EconML",
+    "description": "ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.",
+    "url": "https://github.com/py-why/EconML",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 4755,
+    "primary_language": "Jupyter Notebook",
+    "last_updated": "2026-08-15T14:17:18Z"
+  },
+  {
+    "id": "6c722935-3840-43e2-a050-25828fdb2282",
+    "entity_type": "repository",
+    "name": "serenata-de-amor",
+    "description": "🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**",
+    "url": "https://github.com/okfn-brasil/serenata-de-amor",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 4603,
+    "primary_language": "Python",
+    "last_updated": "2026-08-15T17:07:07Z"
+  },
+  {
+    "id": "4b4bfca6-467e-4a9a-bc00-b4b612d7f729",
+    "entity_type": "repository",
+    "name": "sql-translator",
+    "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
+    "url": "https://github.com/whoiskatrin/sql-translator",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 4323,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-12T18:26:39Z"
+  },
+  {
+    "id": "99655385-d932-4bad-bd6d-5ec288c5fd4c",
+    "entity_type": "repository",
+    "name": "malmo",
+    "description": "Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:",
+    "url": "https://github.com/microsoft/malmo",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 4270,
+    "primary_language": "Java",
+    "last_updated": "2026-08-18T10:10:57Z"
+  },
+  {
+    "id": "3a8e3ce3-57be-4ef8-ae6e-20d2b105f465",
+    "entity_type": "repository",
+    "name": "AI-ML-Roadmap-from-scratch",
+    "description": "Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.",
+    "url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 4147,
+    "primary_language": null,
+    "last_updated": "2026-08-18T07:24:26Z"
+  },
+  {
+    "id": "5c1577df-2fed-4359-ac8a-c3284ff1bb8d",
+    "entity_type": "repository",
+    "name": "Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+    "description": "A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.",
+    "url": "https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 4000,
+    "primary_language": "Python",
+    "last_updated": "2026-08-14T20:33:27Z"
+  },
+  {
+    "id": "a0e20fda-7b64-4191-9f0b-635c27b3cba8",
+    "entity_type": "repository",
+    "name": "aiac",
+    "description": "Artificial Intelligence Infrastructure-as-Code Generator.",
+    "url": "https://github.com/gofireflyio/aiac",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 3785,
+    "primary_language": "Go",
+    "last_updated": "2026-08-17T19:11:36Z"
+  },
+  {
+    "id": "176951e9-f9e6-429d-b9a2-abafb3400419",
+    "entity_type": "repository",
+    "name": "wppconnect",
+    "description": "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination",
+    "url": "https://github.com/wppconnect-team/wppconnect",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 3388,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T14:24:38Z"
+  },
+  {
+    "id": "21644d5c-7fbc-4266-8e34-3a4e2e939e80",
+    "entity_type": "repository",
+    "name": "geoai",
+    "description": "GeoAI: Artificial Intelligence for Geospatial Data",
+    "url": "https://github.com/opengeos/geoai",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 3290,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T11:19:28Z"
+  },
+  {
+    "id": "09ea78a9-7c58-495a-b766-c1e65c0af678",
+    "entity_type": "repository",
+    "name": "AGiXT",
+    "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
+    "url": "https://github.com/Josh-XT/AGiXT",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 3210,
+    "primary_language": "Python",
+    "last_updated": "2026-08-14T07:09:59Z"
+  },
+  {
+    "id": "2e6fe17a-93b2-4074-8ae2-dc260db67a46",
+    "entity_type": "repository",
+    "name": "stanford-cs-221-artificial-intelligence",
+    "description": "VIP cheatsheets for Stanford's CS 221 Artificial Intelligence",
+    "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 2981,
+    "primary_language": null,
+    "last_updated": "2026-08-17T12:17:17Z"
+  },
+  {
+    "id": "86d76603-4c5d-4799-9f8f-a48e39f499ef",
+    "entity_type": "repository",
+    "name": "YC-Killer",
+    "description": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups.",
+    "url": "https://github.com/sahibzada-allahyar/YC-Killer",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 2776,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T14:54:46Z"
+  },
+  {
+    "id": "b753f475-9366-4d72-bc97-8c6417b216ac",
+    "entity_type": "repository",
+    "name": "susi_server",
+    "description": "SUSI.AI server backend - the Artificial Intelligence server for personal assistants  https://susi.ai",
+    "url": "https://github.com/fossasia/susi_server",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 2522,
+    "primary_language": "Java",
+    "last_updated": "2026-08-01T20:02:24Z"
+  },
+  {
+    "id": "4abd5149-c1e2-42cb-9630-92aad9fe6a39",
+    "entity_type": "repository",
+    "name": "opencog",
+    "description": "A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)",
+    "url": "https://github.com/opencog/opencog",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 2475,
+    "primary_language": "Scheme",
+    "last_updated": "2026-08-13T21:23:50Z"
+  },
+  {
+    "id": "cb8eef88-ed68-4642-aca6-119e17264d3a",
+    "entity_type": "repository",
+    "name": "ai-chatbot-framework",
+    "description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
+    "url": "https://github.com/alfredfrancis/ai-chatbot-framework",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 2166,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T14:23:51Z"
+  },
+  {
+    "id": "1cfc35e3-d596-42c6-b4cd-43daa3f600a5",
+    "entity_type": "repository",
+    "name": "awesome-programming-books",
+    "description": "📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization)",
+    "url": "https://github.com/zero-equals-false/awesome-programming-books",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 2105,
+    "primary_language": null,
+    "last_updated": "2026-08-18T07:38:09Z"
+  },
+  {
+    "id": "0608f85a-b03a-4f4b-85d0-55e04f559850",
+    "entity_type": "repository",
+    "name": "Artificial-Intelligence-Terminology-Database",
+    "description": "A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain",
+    "url": "https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 2034,
+    "primary_language": null,
+    "last_updated": "2026-08-18T04:46:15Z"
+  },
+  {
+    "id": "43dc12af-a6de-498f-93bb-c94e58dc38ec",
+    "entity_type": "repository",
+    "name": "Artificial-Intelligence",
+    "description": "Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools             ",
+    "url": "https://github.com/Niraj-Lunavat/Artificial-Intelligence",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1857,
+    "primary_language": null,
+    "last_updated": "2026-08-14T17:11:12Z"
+  },
+  {
+    "id": "0d400f8c-d665-4c6d-874e-9c09346aa793",
+    "entity_type": "repository",
+    "name": "awesome-ai-ml-dl",
+    "description": "Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.",
+    "url": "https://github.com/neomatrix369/awesome-ai-ml-dl",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1709,
+    "primary_language": "Jupyter Notebook",
+    "last_updated": "2026-08-17T04:00:14Z"
+  },
+  {
+    "id": "39d165b0-35f0-4f81-b329-084bade4bc4c",
+    "entity_type": "repository",
+    "name": "aima-java",
+    "description": "Java implementation of algorithms from Russell And Norvig's \"Artificial Intelligence - A Modern Approach\"",
+    "url": "https://github.com/aimacode/aima-java",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1616,
+    "primary_language": "Java",
+    "last_updated": "2026-08-12T17:53:43Z"
+  },
+  {
+    "id": "b2deaaf6-cbac-4dfd-9f79-23d3d1ffd0c1",
+    "entity_type": "repository",
+    "name": "ai_all_resources",
+    "description": "A curated list of Best Artificial Intelligence Resources",
+    "url": "https://github.com/nivu/ai_all_resources",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1518,
+    "primary_language": "Jupyter Notebook",
+    "last_updated": "2026-08-14T12:53:11Z"
+  },
+  {
+    "id": "651e900b-0be4-4fb0-b60b-f86d47bc3c99",
+    "entity_type": "repository",
+    "name": "awesome-artificial-intelligence-regulation",
+    "description": "This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.",
+    "url": "https://github.com/EthicalML/awesome-artificial-intelligence-regulation",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1456,
+    "primary_language": null,
+    "last_updated": "2026-08-17T19:11:21Z"
+  },
+  {
+    "id": "c8996761-f99b-4894-b0dd-9e9bdb5ea164",
+    "entity_type": "repository",
+    "name": "DI-star",
+    "description": "An artificial intelligence platform for the StarCraft II with large-scale distributed training and grand-master agents.",
+    "url": "https://github.com/opendilab/DI-star",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1391,
+    "primary_language": "Python",
+    "last_updated": "2026-08-09T08:28:20Z"
+  },
+  {
+    "id": "4a0ca724-02b6-4078-842c-1e1429ab2e48",
+    "entity_type": "repository",
+    "name": "pywinassistant",
+    "description": "The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully operates graphical-user-interfaces (GUIs) by using only natural language. Uses Visualization-of-Thought and Chain-of-Thought reasoning to elicit spatial reasoning and perception, emulates, plans and simulates synthetic HID interactions.",
+    "url": "https://github.com/a-real-ai/pywinassistant",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1343,
+    "primary_language": "Python",
+    "last_updated": "2026-08-04T19:18:56Z"
+  },
+  {
+    "id": "c3980b28-e2b7-4f5e-be51-94fefdd6f459",
+    "entity_type": "repository",
+    "name": "gdx-ai",
+    "description": "Artificial Intelligence framework for games based on libGDX or not. Features: Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines",
+    "url": "https://github.com/libgdx/gdx-ai",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1301,
+    "primary_language": "Java",
+    "last_updated": "2026-08-17T15:51:42Z"
+  },
+  {
+    "id": "b6bd9dde-a9a9-484f-838c-f36b2d4a73e8",
+    "entity_type": "repository",
+    "name": "AI-Resources-Central",
+    "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. ",
+    "url": "https://github.com/CoderSJX/AI-Resources-Central",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1241,
+    "primary_language": null,
+    "last_updated": "2026-08-16T05:09:46Z"
+  },
+  {
+    "id": "e5f63c62-6fa0-4ae0-a657-da0259ae9fd0",
+    "entity_type": "repository",
+    "name": "taranis-ai",
+    "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
+    "url": "https://github.com/taranis-ai/taranis-ai",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1204,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T13:27:51Z"
+  },
+  {
+    "id": "5cdf787c-5701-48c8-aadc-b5b63fd2ddff",
+    "entity_type": "repository",
+    "name": "awesome-blockchain-ai",
+    "description": "A curated list of Blockchain projects for Artificial Intelligence and Machine Learning",
+    "url": "https://github.com/steven2358/awesome-blockchain-ai",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1151,
+    "primary_language": null,
+    "last_updated": "2026-08-18T08:43:56Z"
+  },
+  {
+    "id": "2cb04c9b-736d-4838-abbb-809b63679570",
+    "entity_type": "repository",
+    "name": "AForge.NET",
+    "description": "AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms, machine learning, robotics, etc. ",
+    "url": "https://github.com/andrewkirillov/AForge.NET",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1150,
+    "primary_language": "C#",
+    "last_updated": "2026-08-11T13:39:11Z"
+  },
+  {
+    "id": "36a16668-6164-4688-9156-f34eb2c38f81",
+    "entity_type": "repository",
+    "name": "game-datasets",
+    "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
+    "url": "https://github.com/leomaurodesenv/game-datasets",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1106,
+    "primary_language": null,
+    "last_updated": "2026-08-12T10:37:05Z"
+  },
+  {
+    "id": "8b7cd126-6aef-4c53-ab8d-8880be3da0fc",
+    "entity_type": "repository",
+    "name": "AI-Programmer",
+    "description": "Using artificial intelligence and genetic algorithms to automatically write programs. Tutorial: http://www.primaryobjects.com/cms/article149",
+    "url": "https://github.com/primaryobjects/AI-Programmer",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1103,
+    "primary_language": "C#",
+    "last_updated": "2026-08-03T02:38:13Z"
+  },
+  {
+    "id": "a73ac287-1cf8-4a44-9573-d4acb0784518",
+    "entity_type": "repository",
+    "name": "aima-exercises",
+    "description": "Exercises for the book Artificial Intelligence: A Modern Approach",
+    "url": "https://github.com/aimacode/aima-exercises",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1089,
+    "primary_language": "HTML",
+    "last_updated": "2026-08-15T11:59:15Z"
+  },
+  {
+    "id": "f8142d7d-d775-4bc5-931f-aed4d75aaa9f",
+    "entity_type": "repository",
+    "name": "ML-for-High-Schoolers",
+    "description": "This guide details a learning path for high school students looking to explore the field of Machine Learning & Artificial Intelligence.",
+    "url": "https://github.com/kjaisingh/ML-for-High-Schoolers",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 1028,
+    "primary_language": null,
+    "last_updated": "2026-08-11T02:49:16Z"
+  },
+  {
+    "id": "5184e8da-76ed-41d5-af51-3a269238b1f5",
+    "entity_type": "repository",
+    "name": "simpleai",
+    "description": "simple artificial intelligence utilities",
+    "url": "https://github.com/simpleai-team/simpleai",
+    "categories": [
+      "ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "stars": 995,
+    "primary_language": "Python",
+    "last_updated": "2026-08-17T19:11:32Z"
+  }
+]

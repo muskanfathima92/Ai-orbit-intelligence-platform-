@@ -1,0 +1,902 @@
+[
+  {
+    "id": "e3036bda-4005-4ecb-92e1-ed08a99cc7fa",
+    "entity_type": "model",
+    "name": "masterful/gligen-1-4-generation-text-box",
+    "description": "",
+    "url": "https://huggingface.co/masterful/gligen-1-4-generation-text-box",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "501a9287-9fa9-43fc-97bf-bc6fd2f5d114",
+    "entity_type": "model",
+    "name": "RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "1aedd7b6-ea64-4196-9511-76b7b4bafaf2",
+    "entity_type": "model",
+    "name": "RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "b7658eed-398f-45fe-828c-90bd67630dab",
+    "entity_type": "model",
+    "name": "RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "7bb6a323-cedb-4372-9c64-07332339d0ed",
+    "entity_type": "model",
+    "name": "randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only",
+    "description": "",
+    "url": "https://huggingface.co/randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "df03ca78-2417-4028-89e1-716c32732f36",
+    "entity_type": "model",
+    "name": "RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "2692f2b5-7bcd-4177-bb00-a4a750117956",
+    "entity_type": "model",
+    "name": "RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "c71ab92e-895b-40f2-8858-5b6ab179eb2f",
+    "entity_type": "model",
+    "name": "RichardErkhov/spruhamohanty_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/spruhamohanty_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "3073161a-d42f-4061-bfe8-1f32c5dfc59d",
+    "entity_type": "model",
+    "name": "RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "a4a98363-314e-479a-b7cf-aa4486a8dec3",
+    "entity_type": "model",
+    "name": "RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "efdc6197-25b9-45bd-9663-20560540d12c",
+    "entity_type": "model",
+    "name": "RichardErkhov/padidam_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/padidam_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "ce333356-2b43-4181-8167-1b824386ea73",
+    "entity_type": "model",
+    "name": "RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "8d6a6df5-d6a0-4ee1-a3c0-985d9553afd1",
+    "entity_type": "model",
+    "name": "RichardErkhov/Rohan5076_-_medquad-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/Rohan5076_-_medquad-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "4d4e6908-d750-41f0-8bbd-7a056cc418e4",
+    "entity_type": "model",
+    "name": "RichardErkhov/sravankumarmsb_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/sravankumarmsb_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "d26b6b77-fb39-402e-a890-7ab56fa29c9e",
+    "entity_type": "model",
+    "name": "RichardErkhov/amit-techi_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/amit-techi_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "413127d9-6597-40b5-a365-f3801c989376",
+    "entity_type": "model",
+    "name": "RichardErkhov/MeghanathReddy_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/MeghanathReddy_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "e81ca429-b456-43fe-92a7-500884b43d90",
+    "entity_type": "model",
+    "name": "RichardErkhov/Yaram_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/Yaram_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "68037587-9b80-4e81-809c-59fa297709f6",
+    "entity_type": "model",
+    "name": "RichardErkhov/Ashokrajudevops_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/Ashokrajudevops_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "0fc786e9-57cb-46fd-a342-f1e15dd042f8",
+    "entity_type": "model",
+    "name": "RichardErkhov/msahu_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/msahu_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "bdf87c90-fd13-444e-895e-041e7534d1c7",
+    "entity_type": "model",
+    "name": "RichardErkhov/shubham11goel_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/shubham11goel_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "24b17b68-ebef-45b7-ab08-800f256bd442",
+    "entity_type": "model",
+    "name": "RichardErkhov/Shwetaupadhyay7878_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/Shwetaupadhyay7878_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "a122a126-d898-4d02-826d-103867199865",
+    "entity_type": "model",
+    "name": "RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "8e559388-08fe-496d-84a1-eb35be992ba5",
+    "entity_type": "model",
+    "name": "RichardErkhov/vamseelatha2002_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/vamseelatha2002_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "92915246-59f8-435a-abd2-cd31d78a1784",
+    "entity_type": "model",
+    "name": "RichardErkhov/veeravalluri_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/veeravalluri_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "a004bef7-d98f-470c-8229-1fa5559b9865",
+    "entity_type": "model",
+    "name": "RichardErkhov/amitakumarjha_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/amitakumarjha_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "117b7b47-5433-4edf-920b-dc64460d5678",
+    "entity_type": "model",
+    "name": "RichardErkhov/SantoshGollapudi_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/SantoshGollapudi_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "e919acf7-38ca-4ebd-8703-dfbf02501949",
+    "entity_type": "model",
+    "name": "RichardErkhov/abhishkgoel_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/abhishkgoel_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "45bd4759-d31d-4bbe-b028-1f81538f1dcf",
+    "entity_type": "model",
+    "name": "RichardErkhov/VJ84a_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/VJ84a_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "1b607c06-c39d-4e1a-b32b-9e20c6a44168",
+    "entity_type": "model",
+    "name": "RichardErkhov/bikkibhagya93_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/bikkibhagya93_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "34a6bd7e-14f0-46d1-9553-8a13cf2c3431",
+    "entity_type": "model",
+    "name": "RichardErkhov/sridharsamala_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/sridharsamala_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "82a4355f-2fe9-4c07-be91-f8742b526ab3",
+    "entity_type": "model",
+    "name": "RichardErkhov/NavaneethRaj_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/NavaneethRaj_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "3a09716e-783b-4ceb-9288-35c93c10f4c1",
+    "entity_type": "model",
+    "name": "RichardErkhov/graphitesin_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/graphitesin_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "4664892d-56a8-4318-9efb-8675b46aa51e",
+    "entity_type": "model",
+    "name": "RichardErkhov/DIPEN-SEN_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/DIPEN-SEN_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "b920589f-7a4a-4386-93d3-389e2199387a",
+    "entity_type": "model",
+    "name": "RichardErkhov/jimzp_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/jimzp_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "6f1c2fbe-8ec2-4e54-befd-ca1cedb643d5",
+    "entity_type": "model",
+    "name": "RichardErkhov/Ashmit003_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/Ashmit003_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "f06e0f92-b13d-482b-aeec-f3a10bbd3aa1",
+    "entity_type": "model",
+    "name": "RichardErkhov/Vidyayini_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/Vidyayini_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "389a3f03-364a-4345-8fb9-f45671215596",
+    "entity_type": "model",
+    "name": "RichardErkhov/Challa42_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/Challa42_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "5c944c62-677d-41ae-90df-cf40fda2562c",
+    "entity_type": "model",
+    "name": "RichardErkhov/rgontia_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/rgontia_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "d5511590-20d1-472c-b50b-7840276193f5",
+    "entity_type": "model",
+    "name": "gligen/gligen-generation-text-box",
+    "description": "",
+    "url": "https://huggingface.co/gligen/gligen-generation-text-box",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "1ba1ee4f-0067-40ad-a4f4-9247409721f2",
+    "entity_type": "model",
+    "name": "RichardErkhov/sarveshdayma27_-_Text_Generation-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/sarveshdayma27_-_Text_Generation-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "8c1ae336-e387-4b9d-b891-2785281555e8",
+    "entity_type": "model",
+    "name": "RichardErkhov/ronykris_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/ronykris_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "32acfe66-9c0f-4436-9844-781db678cbd8",
+    "entity_type": "model",
+    "name": "RichardErkhov/ssaiteja16_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/ssaiteja16_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "bd63fca6-6371-44e9-974b-fe84f738c4a9",
+    "entity_type": "model",
+    "name": "RichardErkhov/sourcevin_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/sourcevin_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "0667db7a-c070-4123-a0d3-df7c55fa8d15",
+    "entity_type": "model",
+    "name": "RichardErkhov/maddy-1402_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/maddy-1402_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "070bcf82-b08f-48d6-97a3-45c77a8926fb",
+    "entity_type": "model",
+    "name": "RichardErkhov/shivani-intel_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/shivani-intel_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "31f73d38-69bb-4ec5-a45a-820f49a93a52",
+    "entity_type": "model",
+    "name": "RichardErkhov/SaiSowmya99_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/SaiSowmya99_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "105f7548-e117-4ac0-8c41-3b897635dfcf",
+    "entity_type": "model",
+    "name": "RichardErkhov/siree921_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/siree921_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "7efee092-1529-4f08-a360-88c30f451183",
+    "entity_type": "model",
+    "name": "RichardErkhov/chinmoydey_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/chinmoydey_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "2b1f9432-d794-44f9-8d32-e1886bf76980",
+    "entity_type": "model",
+    "name": "RichardErkhov/leelamca_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/leelamca_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  },
+  {
+    "id": "ba2437d6-b509-4fda-a5ef-5824705cbdcc",
+    "entity_type": "model",
+    "name": "RichardErkhov/bharatsonti_-_gita-text-generation-gpt2-gguf",
+    "description": "",
+    "url": "https://huggingface.co/RichardErkhov/bharatsonti_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "ai",
+      "model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/"
+    },
+    "license": null,
+    "modalities": [],
+    "provider": null
+  }
+]

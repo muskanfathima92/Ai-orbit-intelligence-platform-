@@ -1,0 +1,23 @@
+[
+  {
+    "source_id": "cde3842f-b49d-4435-89ed-55f7ec3ecefb",
+    "relationship": "owns",
+    "target_id": "f488ac8f-a4bc-4b4d-b2de-a7d5f5b6e658",
+    "evidence": "GitHub API identifies 'aimacode' as the owner of repository 'aima-python'.",
+    "confidence": 0.98
+  },
+  {
+    "source_id": "cde3842f-b49d-4435-89ed-55f7ec3ecefb",
+    "relationship": "owns",
+    "target_id": "9530db2c-f11c-4e8a-9acd-3132daab21c9",
+    "evidence": "GitHub API identifies 'aimacode' as the owner of repository 'aima-java'.",
+    "confidence": 0.98
+  },
+  {
+    "source_id": "cde3842f-b49d-4435-89ed-55f7ec3ecefb",
+    "relationship": "owns",
+    "target_id": "70846e28-7a67-49c3-9511-f2db1fb2f41a",
+    "evidence": "GitHub API identifies 'aimacode' as the owner of repository 'aima-exercises'.",
+    "confidence": 0.98
+  }
+]

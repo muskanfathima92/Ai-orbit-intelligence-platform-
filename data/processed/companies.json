@@ -1,0 +1,902 @@
+[
+  {
+    "id": "9b58be73-8610-4295-9701-37e830aaa32c",
+    "entity_type": "company",
+    "name": "openai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/openai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "3e4658ad-415e-42b5-8087-c6a49058379b",
+    "entity_type": "company",
+    "name": "Stability-AI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/Stability-AI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "1578703e-7974-4c0e-84a3-6749dd24e27e",
+    "entity_type": "company",
+    "name": "allenai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/allenai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "a900f0da-5f95-4091-9c79-e1b6f9d4619a",
+    "entity_type": "company",
+    "name": "dair-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/dair-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "ad96e317-2d80-4cbc-83d2-4876e11965cf",
+    "entity_type": "company",
+    "name": "jina-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/jina-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "c47cf4f3-807c-4866-8d0a-fe85f0cc2a62",
+    "entity_type": "company",
+    "name": "airbnb",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/airbnb",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "4050207b-57f6-40ae-95a1-527f924ff5fa",
+    "entity_type": "company",
+    "name": "fastai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/fastai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "8a277ae7-7c2a-4629-97f2-5ac9395920be",
+    "entity_type": "company",
+    "name": "EleutherAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/EleutherAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "f7d26738-699b-4e3c-a029-c9fd141ec031",
+    "entity_type": "company",
+    "name": "MoonshotAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/MoonshotAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "63741029-b17d-4c91-8789-05a1e5818edc",
+    "entity_type": "company",
+    "name": "LAION-AI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/LAION-AI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "2c55575e-4cb2-4814-9886-e48cec46f3e9",
+    "entity_type": "company",
+    "name": "commaai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/commaai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "31b96ca0-6ab2-4e03-ac49-ff08c5703b65",
+    "entity_type": "company",
+    "name": "mistralai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/mistralai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "6a66ec0e-681f-4a30-a205-ab97eee95af4",
+    "entity_type": "company",
+    "name": "zai-org",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/zai-org",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "1e6b9e99-8ae7-4b92-852a-4ea33e5d46c0",
+    "entity_type": "company",
+    "name": "AI4Finance-Foundation",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/AI4Finance-Foundation",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "a06c9ebb-075a-45ab-bfcf-05cf87e02200",
+    "entity_type": "company",
+    "name": "SakanaAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/SakanaAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "78ccbace-cb54-4187-ad22-00b247881bff",
+    "entity_type": "company",
+    "name": "nomic-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/nomic-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "4536d405-fd59-4359-ae7b-64df02f68409",
+    "entity_type": "company",
+    "name": "tenstorrent",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/tenstorrent",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "62c32503-0ad8-430e-a57c-842db3f2b640",
+    "entity_type": "company",
+    "name": "AnswerDotAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/AnswerDotAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "9286d140-b980-4111-9065-8afd9e45db80",
+    "entity_type": "company",
+    "name": "AI4Bharat",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/AI4Bharat",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "fda1c616-5660-471c-9fef-1c9d8d0b6d6f",
+    "entity_type": "company",
+    "name": "leon-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/leon-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "ab3b64b6-e7b3-46f2-a007-acf8dc59b762",
+    "entity_type": "company",
+    "name": "camel-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/camel-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "1766dbc0-cb1c-419d-b456-f3d5ee3a6661",
+    "entity_type": "company",
+    "name": "shareAI-lab",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/shareAI-lab",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "739f1dea-d626-49f0-a0af-588ed9976f35",
+    "entity_type": "company",
+    "name": "ai-forever",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/ai-forever",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "ca7d15ad-4df2-4461-a251-4b9fa1fdf6c8",
+    "entity_type": "company",
+    "name": "fetchai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/fetchai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "f43badcd-1513-43bc-b38e-40033af057af",
+    "entity_type": "company",
+    "name": "VedalAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/VedalAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "23195f1a-340e-4468-a986-1cff1b919aa4",
+    "entity_type": "company",
+    "name": "crewAIInc",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/crewAIInc",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "c8e9a3e3-9a25-4718-bf01-c24fd266979e",
+    "entity_type": "company",
+    "name": "https-deeplearning-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/https-deeplearning-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "629d443a-3cc2-4a59-817f-56722ce80ca7",
+    "entity_type": "company",
+    "name": "MonlamAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/MonlamAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "a3e19975-f21a-4c46-bee1-1f91359971e0",
+    "entity_type": "company",
+    "name": "Wan-Video",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/Wan-Video",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "8d0acdef-5f2c-4894-8db9-a1826b02a1e7",
+    "entity_type": "company",
+    "name": "unslothai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/unslothai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "fbad1c26-af9c-49af-b45d-4f29a3a65aa5",
+    "entity_type": "company",
+    "name": "inclusionAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/inclusionAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "7be3d60f-fa78-4553-b311-929095300109",
+    "entity_type": "company",
+    "name": "RapidAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/RapidAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "31bd90e2-4be9-4bd7-b17d-f0d8e6b27938",
+    "entity_type": "company",
+    "name": "labmlai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/labmlai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "2254b4ce-6176-47a6-bb35-de1c33a494dd",
+    "entity_type": "company",
+    "name": "AirtestProject",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/AirtestProject",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "cde3842f-b49d-4435-89ed-55f7ec3ecefb",
+    "entity_type": "company",
+    "name": "aimacode",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/aimacode",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "723c0346-f24b-4434-8d47-791c54f0e4d4",
+    "entity_type": "company",
+    "name": "swiss-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/swiss-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "e6ee0d53-4c92-4a25-a3bc-6f7a2595ab3d",
+    "entity_type": "company",
+    "name": "aio-libs",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/aio-libs",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "7c2512f6-91ef-48ad-bc46-0f51e03a7208",
+    "entity_type": "company",
+    "name": "FlowiseAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/FlowiseAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "59d43fa6-22b1-4ec7-b2b5-4c020610059b",
+    "entity_type": "company",
+    "name": "302ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/302ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "28cc3d2f-67f5-4519-a62a-39d63afa9acb",
+    "entity_type": "company",
+    "name": "BerriAI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/BerriAI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "46f054c0-9c31-4a66-8228-2f3b80fbbcaf",
+    "entity_type": "company",
+    "name": "mozilla-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/mozilla-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "08fa4e27-da68-4928-8dc6-d510d2b17d0e",
+    "entity_type": "company",
+    "name": "AirdropFamilyIDN-V2-0",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/AirdropFamilyIDN-V2-0",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "7d078758-b722-4886-96fa-34a4e1549522",
+    "entity_type": "company",
+    "name": "moeru-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/moeru-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "d6967dc3-edec-4c22-a51d-d8ec19e7825e",
+    "entity_type": "company",
+    "name": "FreedomIntelligence",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/FreedomIntelligence",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "12dc4b0d-bcee-485d-a30b-e23ab52f25ec",
+    "entity_type": "company",
+    "name": "Genesis-Embodied-AI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/Genesis-Embodied-AI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "3f82bb7e-2ff8-4c58-9c48-1ddaaa081081",
+    "entity_type": "company",
+    "name": "airbytehq",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/airbytehq",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "7e79a335-a0d8-43c3-83a1-e9828b95ab2c",
+    "entity_type": "company",
+    "name": "nogibjj",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/nogibjj",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "14c1b98d-9e26-4a8e-9abe-9f1f78aa176f",
+    "entity_type": "company",
+    "name": "resemble-ai",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/resemble-ai",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "5038ce97-014c-42d4-ac03-d446a09b59ff",
+    "entity_type": "company",
+    "name": "Lightning-AI",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/Lightning-AI",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  },
+  {
+    "id": "c58f78a6-5228-41d1-9357-7c4b2b47b176",
+    "entity_type": "company",
+    "name": "Liquid4All",
+    "description": "AI organization discovered through GitHub",
+    "url": "https://github.com/Liquid4All",
+    "categories": [
+      "ai",
+      "company"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": null
+  }
+]

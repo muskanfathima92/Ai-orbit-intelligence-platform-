@@ -1,0 +1,770 @@
+[
+  {
+    "_id": "64d2b0c75de0bc71ff9524ed",
+    "id": "masterful/gligen-1-4-generation-text-box",
+    "likes": 9,
+    "private": false,
+    "downloads": 1346,
+    "tags": [
+      "diffusers",
+      "stable-diffusion",
+      "stable-diffusion-diffusers",
+      "text-to-image",
+      "arxiv:2112.10752",
+      "arxiv:2103.00020",
+      "arxiv:2205.11487",
+      "arxiv:2301.07093",
+      "license:creativeml-openrail-m",
+      "endpoints_compatible",
+      "diffusers:StableDiffusionPipeline",
+      "region:us"
+    ],
+    "pipeline_tag": "text-to-image",
+    "library_name": "diffusers",
+    "createdAt": "2023-08-08T21:16:55.000Z",
+    "modelId": "masterful/gligen-1-4-generation-text-box"
+  },
+  {
+    "_id": "67ac03b561df7732345c1384",
+    "id": "RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 544,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:13:09.000Z",
+    "modelId": "RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac140fbeb0df7df478fc30",
+    "id": "RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 533,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:22:55.000Z",
+    "modelId": "RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac032920e98bddc5bfd116",
+    "id": "RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 525,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:10:49.000Z",
+    "modelId": "RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "6a80e59c6c0b1872fe618af0",
+    "id": "randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only",
+    "likes": 0,
+    "private": false,
+    "downloads": 521,
+    "tags": [
+      "mlx",
+      "safetensors",
+      "qwen3_5",
+      "text-generation-inference",
+      "text-generation",
+      "conversational",
+      "base_model:Qwen/Qwen3.8-27B",
+      "base_model:quantized:Qwen/Qwen3.8-27B",
+      "license:apache-2.0",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "mlx",
+    "createdAt": "2026-08-15T22:18:04.000Z",
+    "modelId": "randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only"
+  },
+  {
+    "_id": "67ac0bdbd4cd89a76c82e93d",
+    "id": "RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 513,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:47:55.000Z",
+    "modelId": "RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac0bbf194b8ab395bc32ef",
+    "id": "RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 467,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:47:27.000Z",
+    "modelId": "RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac0b5cdaec22818eadd1dd",
+    "id": "RichardErkhov/spruhamohanty_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 460,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:45:48.000Z",
+    "modelId": "RichardErkhov/spruhamohanty_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67d8941464a3bc4d0101dafd",
+    "id": "RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 451,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-03-17T21:28:52.000Z",
+    "modelId": "RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac17e19e82e75de8714e4b",
+    "id": "RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 447,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:39:13.000Z",
+    "modelId": "RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac18a60e81badc18e9f56a",
+    "id": "RichardErkhov/padidam_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 444,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:42:30.000Z",
+    "modelId": "RichardErkhov/padidam_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac159c030ee872c735cc02",
+    "id": "RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 441,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:29:32.000Z",
+    "modelId": "RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67eea519476e3a7f5f57188b",
+    "id": "RichardErkhov/Rohan5076_-_medquad-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 429,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-04-03T15:11:21.000Z",
+    "modelId": "RichardErkhov/Rohan5076_-_medquad-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac12e9ee47cc8d1266fccd",
+    "id": "RichardErkhov/sravankumarmsb_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 409,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:18:01.000Z",
+    "modelId": "RichardErkhov/sravankumarmsb_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67c22fdf11298720cf6bc575",
+    "id": "RichardErkhov/amit-techi_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 402,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-28T21:51:27.000Z",
+    "modelId": "RichardErkhov/amit-techi_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac049918f5049431bc84b2",
+    "id": "RichardErkhov/MeghanathReddy_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 401,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:16:57.000Z",
+    "modelId": "RichardErkhov/MeghanathReddy_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac132f0887c02d62270aad",
+    "id": "RichardErkhov/Yaram_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 390,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:19:11.000Z",
+    "modelId": "RichardErkhov/Yaram_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac0e213bdd4f257010574d",
+    "id": "RichardErkhov/Ashokrajudevops_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 387,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:57:37.000Z",
+    "modelId": "RichardErkhov/Ashokrajudevops_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac0e4dc91c62b794dd27fe",
+    "id": "RichardErkhov/msahu_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 383,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:58:21.000Z",
+    "modelId": "RichardErkhov/msahu_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67abfff0fce84267438c7849",
+    "id": "RichardErkhov/shubham11goel_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 377,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T01:57:04.000Z",
+    "modelId": "RichardErkhov/shubham11goel_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67abffcae6f1e95ccf66f29f",
+    "id": "RichardErkhov/Shwetaupadhyay7878_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 374,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T01:56:26.000Z",
+    "modelId": "RichardErkhov/Shwetaupadhyay7878_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac095d6e734aaa3ab76ad1",
+    "id": "RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 359,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:37:17.000Z",
+    "modelId": "RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac07d78202f93697e7a076",
+    "id": "RichardErkhov/vamseelatha2002_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 356,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:30:47.000Z",
+    "modelId": "RichardErkhov/vamseelatha2002_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac15b5230b8c8f93c035f2",
+    "id": "RichardErkhov/veeravalluri_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 355,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:29:57.000Z",
+    "modelId": "RichardErkhov/veeravalluri_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac070742108c3b967f80df",
+    "id": "RichardErkhov/amitakumarjha_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 350,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:27:19.000Z",
+    "modelId": "RichardErkhov/amitakumarjha_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac0bade280e58adbebd344",
+    "id": "RichardErkhov/SantoshGollapudi_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 340,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:47:09.000Z",
+    "modelId": "RichardErkhov/SantoshGollapudi_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac181508b4299578c6b35c",
+    "id": "RichardErkhov/abhishkgoel_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 335,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:40:05.000Z",
+    "modelId": "RichardErkhov/abhishkgoel_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac0aa512c9cae4d7157906",
+    "id": "RichardErkhov/VJ84a_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 323,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:42:45.000Z",
+    "modelId": "RichardErkhov/VJ84a_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac058d46ad1f67dc847ffc",
+    "id": "RichardErkhov/bikkibhagya93_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 314,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:21:01.000Z",
+    "modelId": "RichardErkhov/bikkibhagya93_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac04e7bd76af9561487ffe",
+    "id": "RichardErkhov/sridharsamala_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 301,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:18:15.000Z",
+    "modelId": "RichardErkhov/sridharsamala_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac0d050e81badc18e76c3c",
+    "id": "RichardErkhov/NavaneethRaj_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 296,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:52:53.000Z",
+    "modelId": "RichardErkhov/NavaneethRaj_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac153c40fff1d806f6d6b9",
+    "id": "RichardErkhov/graphitesin_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 295,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:27:56.000Z",
+    "modelId": "RichardErkhov/graphitesin_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac153e079e5b00a169de10",
+    "id": "RichardErkhov/DIPEN-SEN_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 282,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:27:58.000Z",
+    "modelId": "RichardErkhov/DIPEN-SEN_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac00ce3142bb0bbc9e558d",
+    "id": "RichardErkhov/jimzp_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 279,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:00:46.000Z",
+    "modelId": "RichardErkhov/jimzp_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67abfd7414a558027094eacc",
+    "id": "RichardErkhov/Ashmit003_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 272,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T01:46:28.000Z",
+    "modelId": "RichardErkhov/Ashmit003_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67f05bfab21c58d267f6a3a1",
+    "id": "RichardErkhov/Vidyayini_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 251,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-04-04T22:23:54.000Z",
+    "modelId": "RichardErkhov/Vidyayini_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac16ecfce8426743917ee9",
+    "id": "RichardErkhov/Challa42_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 242,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:35:08.000Z",
+    "modelId": "RichardErkhov/Challa42_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67c232a094d8357a6fa808c4",
+    "id": "RichardErkhov/rgontia_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 231,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-28T22:03:12.000Z",
+    "modelId": "RichardErkhov/rgontia_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "640381e3eec7c32754e7c461",
+    "id": "gligen/gligen-generation-text-box",
+    "likes": 4,
+    "private": false,
+    "downloads": 230,
+    "tags": [
+      "diffusers",
+      "region:us"
+    ],
+    "library_name": "diffusers",
+    "createdAt": "2023-03-04T17:37:39.000Z",
+    "modelId": "gligen/gligen-generation-text-box"
+  },
+  {
+    "_id": "67c380879c55ee38ad9b195a",
+    "id": "RichardErkhov/sarveshdayma27_-_Text_Generation-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 228,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-03-01T21:47:51.000Z",
+    "modelId": "RichardErkhov/sarveshdayma27_-_Text_Generation-gguf"
+  },
+  {
+    "_id": "67abfd8c42108c3b967d51d9",
+    "id": "RichardErkhov/ronykris_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 225,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T01:46:52.000Z",
+    "modelId": "RichardErkhov/ronykris_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67abffeca6b5a26040f4d3ed",
+    "id": "RichardErkhov/ssaiteja16_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 223,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T01:57:00.000Z",
+    "modelId": "RichardErkhov/ssaiteja16_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac0970558aedaa5ef50e04",
+    "id": "RichardErkhov/sourcevin_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 220,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:37:36.000Z",
+    "modelId": "RichardErkhov/sourcevin_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac10653bdd4f257010f392",
+    "id": "RichardErkhov/maddy-1402_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 219,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:07:17.000Z",
+    "modelId": "RichardErkhov/maddy-1402_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67c2356f56d2f6cff23ee23d",
+    "id": "RichardErkhov/shivani-intel_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 214,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-28T22:15:11.000Z",
+    "modelId": "RichardErkhov/shivani-intel_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac12bb401012b810443beb",
+    "id": "RichardErkhov/SaiSowmya99_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 211,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:17:15.000Z",
+    "modelId": "RichardErkhov/SaiSowmya99_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac023f20bcebf9d7c43bce",
+    "id": "RichardErkhov/siree921_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 207,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T02:06:55.000Z",
+    "modelId": "RichardErkhov/siree921_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac107aa6b5a26040f8c36d",
+    "id": "RichardErkhov/chinmoydey_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 206,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:07:38.000Z",
+    "modelId": "RichardErkhov/chinmoydey_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac159c0686a1e0690617d1",
+    "id": "RichardErkhov/leelamca_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 206,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:29:32.000Z",
+    "modelId": "RichardErkhov/leelamca_-_gita-text-generation-gpt2-gguf"
+  },
+  {
+    "_id": "67ac15ea31fae67858cbe6a6",
+    "id": "RichardErkhov/bharatsonti_-_gita-text-generation-gpt2-gguf",
+    "likes": 0,
+    "private": false,
+    "downloads": 206,
+    "tags": [
+      "gguf",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "createdAt": "2025-02-12T03:30:50.000Z",
+    "modelId": "RichardErkhov/bharatsonti_-_gita-text-generation-gpt2-gguf"
+  }
+]
