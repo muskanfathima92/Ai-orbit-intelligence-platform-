@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Nymos",
+    "description": "AI-powered bulk file renaming for Mac that reads file content, supports multilingual naming, and offers managed or self-managed pricing.",
+    "url": "https://nymos.io/",
+    "categories": [
+      "Utilities"
+    ],
+    "source": {
+      "name": "OpenTools",
+      "url": "https://opentools.ai/tools/nymos"
+    }
+  },
+  {
+    "name": "ai-memory",
+    "description": "ai-memory is an open-source long-term memory layer for agent coding CLIs. Its core promise is practical: stop losing context when you quit Claude Code, switch to Codex, or hand off a repository to another agent. Instead of asking every new assistant to rediscover the architecture, failed attempts, open questions, and prior decisions, ai-memory stores session context and exposes it back through CLI, MCP, hooks, and managed run commands.\n\nThe project is written in Rust and targets builders who already use AI coding agents across real codebases. The README documents support for Linux, macOS, WSL2, native Windows experiments, Claude Code, Codex, Command Code, Kiro, and other MCP-speaking clients. That makes it especially relevant for teams with mixed agent vendors or developers who alternate between tools during a long task. The repository also describes lifecycle hooks, final-session summaries, capture exclusions, session-aware MCP setup, and portable handoff flows.\n\nA typical workflow starts by installing the binary or Docker wrapper, initializing a data directory and config file, enabling a local service where appropriate, and installing MCP or hooks for the target agent. From there, commands such as ai-memory run, ai-memory continue, ai-memory show, install-mcp, install-hooks, and finalize-session help manage the memory lifecycle. The project is explicit that some platforms have different capabilities, so the support matrix matters before rollout.\n\nThe main benefit is continuity. Agent work often fails because the useful context is scattered across terminal output, chat windows, git diffs, and partial experiments. ai-memory gives that context a local system of record that can be reused by multiple clients. It is not a replacement for source control or documentation, but it can reduce repeated explanations and make a clean handoff between models or vendors less painful.\n\nai-memory is MIT-licensed and free to use, with costs limited to your own compute, storage, Docker runtime, and any AI tools you connect. It is best for power users and teams already comfortable with local services and CLI configuration. Casual users may find the setup heavier than a built-in chat history, but serious agent-coding workflows benefit from the explicit memory and handoff model.\n\nFor evaluation, install it on one test repository first and verify what gets captured, what is excluded, and how each agent client reads the memory back. Teams should document their retention policy before using memory tools on sensitive code. Once those rules are clear, ai-memory can become a practical shared context layer for longer agent tasks.",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "categories": [],
+    "source": {
+      "name": "OpenTools",
+      "url": "https://opentools.ai/tools/ai-memory"
+    }
+  },
+  {
+    "name": "Ruflo",
+    "description": "Ruflo is an open-source agent meta-harness for teams that want one workspace for multi-agent planning, Claude Code plugins, MCP tooling, memory, and autonomous workflow coordination. The project is built around a CLI and plugin system rather than a single chat UI. Developers can start with the lightweight Claude Code plugin path, or run the fuller npx ruflo init workflow that writes project files, registers an MCP server, adds hooks, and installs the broader Ruflo loop.\n\nThe practical pitch is simple: Ruflo gives agent builders a scaffold for turning several model calls and local tools into an organized working system. The README describes 98+ agents, 60+ commands, 30 skills, MCP server support, hooks, vector memory, background workers, plugin marketplace integrations, multi-provider routing, and agent federation. For a builder, that means Ruflo is less about asking one assistant a question and more about setting up a repeatable agent operating layer around a codebase or research project.\n\nRuflo is strongest when you already work inside Claude Code, Codex, or another agentic coding environment and want a standard way to launch swarms, persist context, audit readiness, and wire commands into daily work. The project exposes plugin tracks for core orchestration, swarm coordination, RAG memory, autopilot loops, research planning, neural-trading experiments, security checks, and web UI experiments. It also documents a Claude Code MCP command, so the same project can expose tools to an MCP-compatible client.\n\nBecause Ruflo is a fast-moving open-source repo, buyers should treat it like developer infrastructure, not polished SaaS. The GitHub API showed more than 68,000 stars, over 8,000 forks, and hundreds of open issues at the time of this run. That is a strong adoption signal, but it also means users should test upgrades, pin versions, and read the install notes before adding the full CLI scaffold to production repositories.\n\nPricing is straightforward: the Ruflo codebase is MIT-licensed and free to use, while any connected model providers, hosting, or paid agent clients remain separate costs. The best fit is an advanced builder or platform team that wants to experiment with repeatable multi-agent workflows without writing the entire harness from scratch.\n\nBefore adopting Ruflo, start in a disposable repository and compare the plugin path against the full CLI path. The plugin path is safer for a small trial because it avoids writing a complete workspace scaffold. The full CLI path is better when the goal is to evaluate swarms, MCP tools, hooks, and background workers together. Either way, review generated files before committing them and pin versions for repeatable team use.",
+    "url": "https://github.com/ruvnet/ruflo",
+    "categories": [],
+    "source": {
+      "name": "OpenTools",
+      "url": "https://opentools.ai/tools/ruflo"
+    }
+  },
+  {
+    "name": "freebeat.ai 9.0 ",
+    "description": "freebeat.ai 9.0 is a revolutionary video agent that bundles the most powerful AI video models on the market into one creative engine—with a special focus on AI Music Video Generator and AI Music Video Agent. Whether you're a musician, filmmaker, marketer, or creative dreamer, freebeat.ai empowers you to instantly transform any song into a polished, high-quality music video. No editing skills required—simply provide a link or upload your track, describe your vision, and watch the magic unfold.\n\n🎬 Main Feature: AI Music Video Agent\nAutomatic Song Analysis\n Paste any song from Spotify, YouTube, TikTok, Udio—or upload your own file. AI analyzes beat, mood, tempo, lyrics, and structure in real time.\nCreative Direction in Plain Language\n Describe your concept in natural text; for instance:\n“Make it look like a David Bowie meets Blade Runner fever dream.”\n The AI interprets your intent and collaborates like a human director.\nLive Storyboarding & Concept Generation\nStep 1: Understanding Your Music – AI delivers an intelligent, textured analysis of your track.\nStep 2: Building Your Visual Vision – The AI proposes themes, color palettes, scene styles.\nStep 3: Storyboarding Your Scenes – Shot-by-shot breakdown appears in clear, editable text.\nStep 4: Your Turn! – Refine or approve each scene, then hit Generate to bring your vision to life.\nOne-Click High-Quality Rendering\n Final video is generated in minutes using top-tier AI video models—no software downloads, no editing headaches.\n\n💥 Why freebeat.ai 9.0 Is a Game-Changer\nNo Learning Curve\n Instantly generate visually stunning videos with a simple prompt—no technical barriers.\nCreative Collaboration\n The AI acts like your co-director, thinking and suggesting as you go.\nSpeed and Efficiency\n Render your entire music video in less time than it takes to brew your morning espresso.\nGenre-Agnostic Design\n Perfect for K-pop, hip-hop, synthwave, folk, ambient, and more.\nIdeal for Diverse Use Cases\n Great for emerging artists, marketing agencies, social media content creators, or anyone with a song and a creative spark.\n\n🔧 Other Powerful Features\nAll-in-One AI Video Hub\n Combines the latest and most powerful video-generation models in one platform. Includes top-tier generators such as Kling 2.1 / Kling 2.0, Luma Ray2, Runway Gen‑3, Pika 2.2, Veo 2 / Veo 3, Hailuo 02, Seedance 1.0, and Pixverse V4.5\nAudio-Video Sync Precision\n Seamlessly aligns visual cuts and transitions with your song’s rhythm and mood.\nCustom Style Presets\n Choose aesthetic templates like “noir cinematic,” “color-popping pop,” or “glitch aesthetic” — or build your own.\nBuilt-in Text & Graphics Overlay\n Easily add lyrics, subtitles, titles, and branded visuals without extra tools.Includes top-tier generators such as Flux 1.1 Pro, Recraft v3, Bagel and GPT 4o\nResolution & Format Versatility\n Export for YouTube, TikTok, Instagram Reels, and more—up to 4K quality.\nMood & Emotion Calibration\n Adjust visual tone (moody, dreamy, energetic, retro) with a single slider.\nCollaborative Workflows\n Share drafts, sync with team members, comment inline, and iterate seamlessly.\nAutomated Backup + Versioning\n All your storyboards and video versions are saved and easy to restore.\n\n🌟 The Big Picture\nWith freebeat.ai 9.0, you’re not just using a tool—you’re accessing your personal AI film crew. We’re democratizing music video creation, empowering everyone—from indie artists and agencies to midnight idea warriors—to bring cinematic visions to life faster, easier, and more creatively than ever before.\nJoin the revolution. Create stunning music videos with one click—and let your music shine.\n",
+    "url": "https://freebeat.ai/?utm_source=opentools&utm_medium=referral&utm_campaign=opentools_20250306&utm_content=submittool",
+    "categories": [],
+    "source": {
+      "name": "OpenTools",
+      "url": "https://opentools.ai/tools/freebeatai-90"
+    }
+  },
+  {
+    "name": "RenameClick",
+    "description": "RenameClick is an offline AI file renamer for Mac and Windows that privately analyzes the content of images and documents to generate clear, descriptive filenames—without cloud uploads. Using a built‑in local model or your chosen backend (Ollama, LM Studio, OpenAI, Google AI), it supports popular formats like JPG, PNG, PDF, and DOCX, and lets you batch rename by simple drag‑and‑drop. RenameClick produces multilingual filenames, offers a generous free tier (30 files/month), and a one‑time Pro upgrade for unlimited renaming and lifetime updates. It’s privacy‑first, fast, and designed for organizing large collections while staying completely local by default, with planned cloud‑storage integrations on the roadmap.",
+    "url": "https://rename.click/",
+    "categories": [],
+    "source": {
+      "name": "OpenTools",
+      "url": "https://opentools.ai/tools/renameclick"
+    }
+  },
+  {
+    "name": "Any Summary",
+    "description": "AnySummary is an AI-powered tool designed to effectively analyze and summarize long audio and video interview files to extract key points quickly, allowing users to avoid the tedious task of reviewing entire recordings. Its main function is to provide fast and concise summaries, making it invaluable for individuals and organizations needing to understand interview content rapidly. AnySummary's AI-driven summarization capability processes and condenses large volumes of audio and video data into succinct summaries. It is especially useful in areas like journalism, market research, human resources, and academia for its rapid processing speed and ability to enhance content comprehension efficiently.",
+    "url": "https://www.anysummary.app/",
+    "categories": [],
+    "source": {
+      "name": "OpenTools",
+      "url": "https://opentools.ai/tools/any-summary"
+    }
+  },
+  {
+    "name": "Dora",
+    "description": "Dora AI is an advanced AI-powered website builder that simplifies website creation for both beginners and professionals. By using artificial intelligence, it creates custom designs from straightforward user prompts, bypassing the need for traditional coding and template-based approaches. The tool is capable of producing visually appealing, user-engagement optimized websites, and plans to further innovate with AI-generated 3D graphics and animation features. Dora AI is perfect for web designers, marketers, entrepreneurs, and more, offering a flexible, creative solution for generating complete websites quickly and efficiently.",
+    "url": "https://www.dora.run/?utm_source=opentools.ai&utm_medium=web&utm_campaign=listing",
+    "categories": [],
+    "source": {
+      "name": "OpenTools",
+      "url": "https://opentools.ai/tools/dora"
+    }
+  }
+]
